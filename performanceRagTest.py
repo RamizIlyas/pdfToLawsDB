@@ -1,11 +1,26 @@
 import chromadb
 from pymongo import MongoClient
 import time
+from chromadb.utils import embedding_functions
 
+embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
+    model_name="BAAI/bge-base-en-v1.5",
+    normalize_embeddings=True
+)
 class CorrectedHybridLegalSearcher:
     def __init__(self):
+        # self.client = chromadb.PersistentClient(path="./law_vector_db")
+        # self.collection = self.client.get_collection("pakistan_penal_code")
+
+
         self.client = chromadb.PersistentClient(path="./law_vector_db")
-        self.collection = self.client.get_collection("pakistan_penal_code")
+        self.collection = self.client.get_collection(
+            name="pakistan_penal_code",
+            embedding_function=embedding_function # Using Global One
+        )
+
+
+
         self.mongo_client = MongoClient("mongodb://localhost:27017/")
         self.db = self.mongo_client["pakistan_law_db"]
     
@@ -149,7 +164,9 @@ def simple_improved_test():
     print("=" * 50)
     
     client = chromadb.PersistentClient(path="./law_vector_db")
-    collection = client.get_collection("pakistan_penal_code")
+    collection = client.get_collection(
+        name= "pakistan_penal_code",
+        embedding_function=embedding_function)
     
     # Use better query formulations
     improved_queries = {
@@ -211,8 +228,10 @@ def direct_section_enhancement():
     print("=" * 50)
     
     client = chromadb.PersistentClient(path="./law_vector_db")
-    collection = client.get_collection("pakistan_penal_code")
-    
+    collection = client.get_collection(
+        name="pakistan_penal_code",
+        embedding_function=embedding_function
+    )
     # Queries enhanced with known relevant sections
     enhanced_queries = [
         "section 302 300 301 murder punishment death penalty",
@@ -256,23 +275,25 @@ def direct_section_enhancement():
             print(f"   ❌ Error: {e}")
 
 if __name__ == "__main__":
-    print("🚀 CHOOSE TEST METHOD:")
-    print("1. Corrected Hybrid Search")
-    print("2. Simple Improved Test") 
-    print("3. Direct Section Enhancement")
     
-    choice = input("\nEnter choice (1, 2, or 3): ").strip()
-    
-    if choice == "1":
-        print("\n" + "="*60)
-        searcher = CorrectedHybridLegalSearcher()
-        searcher.test_hybrid_search()
-    elif choice == "2":
-        print("\n" + "="*50)
-        simple_improved_test()
-    elif choice == "3":
-        print("\n" + "="*50)
-        direct_section_enhancement()
-    else:
-        print("❌ Invalid choice. Running simple improved test...")
-        simple_improved_test()
+    while True:
+        print("🚀 CHOOSE TEST METHOD:")
+        print("1. Corrected Hybrid Search")
+        print("2. Simple Improved Test") 
+        print("3. Direct Section Enhancement")
+        
+        choice = input("\nEnter choice (1, 2, or 3): ").strip()
+        
+        if choice == "1":
+            print("\n" + "="*60)
+            searcher = CorrectedHybridLegalSearcher()
+            searcher.test_hybrid_search()
+        elif choice == "2":
+            print("\n" + "="*50)
+            simple_improved_test()
+        elif choice == "3":
+            print("\n" + "="*50)
+            direct_section_enhancement()
+        else:
+            print("❌ Invalid choice. Exiting...")
+            break
