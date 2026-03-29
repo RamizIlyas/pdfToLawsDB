@@ -2,11 +2,11 @@
   "metadata": {
     "total_documents": 515,
     "collection_name": "pakistan_penal_code",
-    "export_date": "2025-11-28T01:44:17.566760"
+    "export_date": "2026-03-29T15:12:11.909721"
   },
   "documents": [
     {
-      "id": "4865b338-6fbc-45",
+      "id": "e2b22f70-41f2-45",
       "section_number": "1",
       "section_title": "Title and extent of operation of the Code.",
       "chapter": "I",
@@ -14,7 +14,7 @@
       "content_length": 147
     },
     {
-      "id": "a28da1da-a75d-48",
+      "id": "eaa4f013-c3bb-4b",
       "section_number": "2",
       "section_title": "Punishment of offences co mmitted within Pakistan.",
       "chapter": "I",
@@ -22,7 +22,7 @@
       "content_length": 247
     },
     {
-      "id": "3d451fa6-89d6-42",
+      "id": "232197cb-fdd3-43",
       "section_number": "3",
       "section_title": "Punishment of offences committed beyond,  but which by law may be tried within",
       "chapter": "I",
@@ -30,7 +30,7 @@
       "content_length": 362
     },
     {
-      "id": "aeae10c4-7fd9-4d",
+      "id": "4ea3159d-db04-4e",
       "section_number": "4",
       "section_title": "Extension of Code to ex tra-territorial offences.",
       "chapter": "I",
@@ -38,7 +38,7 @@
       "content_length": 984
     },
     {
-      "id": "7ebd6327-946c-48",
+      "id": "7e939f58-6c7f-42",
       "section_number": "5",
       "section_title": "Certain laws not to be affected by this Act.",
       "chapter": "II",
@@ -46,7 +46,7 @@
       "content_length": 321
     },
     {
-      "id": "3211a2b4-6e50-4d",
+      "id": "a7744027-08c1-4d",
       "section_number": "6",
       "section_title": "Definitions in the code to be understood subject to exceptions.",
       "chapter": "II",
@@ -54,7 +54,7 @@
       "content_length": 1102
     },
     {
-      "id": "a60f0dce-bb9e-46",
+      "id": "eba5f428-04a0-48",
       "section_number": "7",
       "section_title": "Sense of expression once explained.",
       "chapter": "II",
@@ -62,7 +62,7 @@
       "content_length": 180
     },
     {
-      "id": "d7ead5fc-6043-40",
+      "id": "1ccd5288-deca-4f",
       "section_number": "8",
       "section_title": "Gender.",
       "chapter": "II",
@@ -70,7 +70,7 @@
       "content_length": 106
     },
     {
-      "id": "e0369c51-9f7b-4b",
+      "id": "620c151e-2246-47",
       "section_number": "9",
       "section_title": "Number.",
       "chapter": "II",
@@ -78,7 +78,7 @@
       "content_length": 198
     },
     {
-      "id": "3d18859c-e159-40",
+      "id": "642ac1e4-1879-49",
       "section_number": "10",
       "section_title": "\"Man\", \"Woman\".",
       "chapter": "II",
@@ -86,7 +86,7 @@
       "content_length": 140
     },
     {
-      "id": "c0a698ee-970d-48",
+      "id": "c4fc4ca0-21b2-4a",
       "section_number": "11",
       "section_title": "\"Person\".",
       "chapter": "II",
@@ -94,7 +94,7 @@
       "content_length": 126
     },
     {
-      "id": "67a85d50-7536-43",
+      "id": "3799def1-341e-48",
       "section_number": "12",
       "section_title": "\"Public\".",
       "chapter": "II",
@@ -102,7 +102,7 @@
       "content_length": 99
     },
     {
-      "id": "62fbec81-ce79-4b",
+      "id": "0a15cb90-f3a6-4a",
       "section_number": "14",
       "section_title": "\"Servant of the State\".",
       "chapter": "II",
@@ -110,7 +110,7 @@
       "content_length": 236
     },
     {
-      "id": "cf5f6c3c-5157-4c",
+      "id": "97fb09a5-c7a6-4e",
       "section_number": "17",
       "section_title": "\"Government\"",
       "chapter": "II",
@@ -118,7 +118,7 @@
       "content_length": 177
     },
     {
-      "id": "8118b974-e0ca-40",
+      "id": "2ef8746d-abc3-4b",
       "section_number": "19",
       "section_title": "\"Judge\".",
       "chapter": "II",
@@ -126,7 +126,7 @@
       "content_length": 686
     },
     {
-      "id": "72e95431-46d1-4e",
+      "id": "1ba7c411-7519-45",
       "section_number": "20",
       "section_title": "\"Court of Justice\".",
       "chapter": "II",
@@ -134,7 +134,7 @@
       "content_length": 265
     },
     {
-      "id": "2b030f0f-9867-48",
+      "id": "eb2fd024-c67a-4a",
       "section_number": "21",
       "section_title": "\"Public servant\".",
       "chapter": "II",
@@ -142,7 +142,7 @@
       "content_length": 3339
     },
     {
-      "id": "a0495a28-cdc4-4f",
+      "id": "aa2f24c5-6f3e-46",
       "section_number": "22",
       "section_title": "Movable property.",
       "chapter": "II",
@@ -150,7 +150,7 @@
       "content_length": 239
     },
     {
-      "id": "b22616e7-da9b-40",
+      "id": "c8fe33c7-6615-49",
       "section_number": "23",
       "section_title": "\"Wrongful gain\", \"Wrongful loss\", \"Gaini ng Wrongfully\", \"Losing Wrongfully\".",
       "chapter": "II",
@@ -158,7 +158,7 @@
       "content_length": 661
     },
     {
-      "id": "b54b0080-075d-49",
+      "id": "c1bc6dbc-2e0e-42",
       "section_number": "24",
       "section_title": "\"Dishonestly\".",
       "chapter": "II",
@@ -166,7 +166,7 @@
       "content_length": 186
     },
     {
-      "id": "f978dfcf-1d79-4c",
+      "id": "c9aa346f-2b7a-47",
       "section_number": "25",
       "section_title": "\"Fraudulently\".",
       "chapter": "II",
@@ -174,7 +174,7 @@
       "content_length": 139
     },
     {
-      "id": "eecda929-4a54-43",
+      "id": "229ad063-fa2a-41",
       "section_number": "26",
       "section_title": "\"Reason to believe\".",
       "chapter": "II",
@@ -182,7 +182,7 @@
       "content_length": 154
     },
     {
-      "id": "903b15fa-2b61-4b",
+      "id": "e318d638-7b4c-4f",
       "section_number": "27",
       "section_title": "Property in possession of wife, clerk or servant.",
       "chapter": "II",
@@ -190,7 +190,7 @@
       "content_length": 397
     },
     {
-      "id": "7ca85366-0ece-4f",
+      "id": "929aa959-9c8a-42",
       "section_number": "28",
       "section_title": "\"Counterfeit\".",
       "chapter": "II",
@@ -198,7 +198,7 @@
       "content_length": 725
     },
     {
-      "id": "ea0e5237-3c6a-43",
+      "id": "6c7c386a-d660-42",
       "section_number": "29",
       "section_title": "Document:",
       "chapter": "II",
@@ -206,7 +206,7 @@
       "content_length": 1447
     },
     {
-      "id": "f6029dd6-6f3a-42",
+      "id": "f5612b5d-d22a-43",
       "section_number": "30",
       "section_title": "\"Valuable security\".",
       "chapter": "II",
@@ -214,7 +214,7 @@
       "content_length": 559
     },
     {
-      "id": "db45cde7-1444-42",
+      "id": "0f82eef5-abd9-4c",
       "section_number": "31",
       "section_title": "\"A will\".",
       "chapter": "II",
@@ -222,7 +222,7 @@
       "content_length": 75
     },
     {
-      "id": "48331985-6118-44",
+      "id": "750c7f40-75fc-42",
       "section_number": "32",
       "section_title": "Words referring to acts include illegal omissions.",
       "chapter": "II",
@@ -230,7 +230,7 @@
       "content_length": 215
     },
     {
-      "id": "031cf1a3-28ba-49",
+      "id": "4a755423-ebcb-4f",
       "section_number": "33",
       "section_title": "\"Act\", \"Omission\".",
       "chapter": "II",
@@ -238,7 +238,7 @@
       "content_length": 177
     },
     {
-      "id": "652e8ab9-a411-49",
+      "id": "16a5442c-538f-47",
       "section_number": "34",
       "section_title": "Acts done by several persons In furtherance of common intention.",
       "chapter": "II",
@@ -246,7 +246,7 @@
       "content_length": 266
     },
     {
-      "id": "7c3b0328-f08c-47",
+      "id": "4ee2b5db-0886-42",
       "section_number": "35",
       "section_title": "When such an act is criminal by reason of its being done with a criminal knowledge or",
       "chapter": "II",
@@ -254,7 +254,7 @@
       "content_length": 427
     },
     {
-      "id": "c761b834-4f22-49",
+      "id": "be13d6ce-075a-4e",
       "section_number": "36",
       "section_title": "Effects caused partly by act and partly by omission:",
       "chapter": "II",
@@ -262,7 +262,7 @@
       "content_length": 450
     },
     {
-      "id": "166d26d7-4ad0-4d",
+      "id": "fd6d2fec-f0f9-4d",
       "section_number": "37",
       "section_title": "Co-operation by doing one of several acts constituting an offence:",
       "chapter": "II",
@@ -270,7 +270,7 @@
       "content_length": 1720
     },
     {
-      "id": "edd47ef1-e106-42",
+      "id": "9d606eb3-391b-49",
       "section_number": "38",
       "section_title": "Persons concerned in crim inal act may be guilty of different offences:",
       "chapter": "II",
@@ -278,7 +278,7 @@
       "content_length": 637
     },
     {
-      "id": "de540560-e40f-40",
+      "id": "47d983ab-0670-48",
       "section_number": "39",
       "section_title": "\"Voluntarily\":",
       "chapter": "II",
@@ -286,7 +286,7 @@
       "content_length": 602
     },
     {
-      "id": "a28b18fe-9711-40",
+      "id": "101a6f69-b3bb-4f",
       "section_number": "40",
       "section_title": "\"Offence\":",
       "chapter": "II",
@@ -294,7 +294,7 @@
       "content_length": 808
     },
     {
-      "id": "fc674814-ef5b-4a",
+      "id": "b99a2304-ee61-4a",
       "section_number": "41",
       "section_title": "\"Special law\":",
       "chapter": "II",
@@ -302,7 +302,7 @@
       "content_length": 89
     },
     {
-      "id": "1b7d9633-10b9-42",
+      "id": "96893459-38b1-4b",
       "section_number": "42",
       "section_title": "\"Local Law\":",
       "chapter": "II",
@@ -310,7 +310,7 @@
       "content_length": 128
     },
     {
-      "id": "91322a6b-5a95-49",
+      "id": "f0e84a7e-b42c-40",
       "section_number": "43",
       "section_title": "\"Illegal\", \"Legally bound to do\":",
       "chapter": "II",
@@ -318,7 +318,7 @@
       "content_length": 278
     },
     {
-      "id": "88ebc13b-678d-43",
+      "id": "8200adf9-4c24-44",
       "section_number": "44",
       "section_title": "\"Injury\":",
       "chapter": "II",
@@ -326,7 +326,7 @@
       "content_length": 132
     },
     {
-      "id": "4c41afc3-70a0-48",
+      "id": "d0920a4c-23d4-4a",
       "section_number": "45",
       "section_title": "\"Life\":",
       "chapter": "II",
@@ -334,7 +334,7 @@
       "content_length": 117
     },
     {
-      "id": "5e4f8164-4208-43",
+      "id": "c685352c-7dba-4d",
       "section_number": "46",
       "section_title": "\"Death\":",
       "chapter": "II",
@@ -342,7 +342,7 @@
       "content_length": 120
     },
     {
-      "id": "fb2ecb10-4909-48",
+      "id": "3ac9fc2c-4c63-4a",
       "section_number": "47",
       "section_title": "\"Animal\":",
       "chapter": "II",
@@ -350,7 +350,7 @@
       "content_length": 94
     },
     {
-      "id": "20c53af8-9c96-43",
+      "id": "fd059906-c08d-46",
       "section_number": "48",
       "section_title": "\"Vessel\":",
       "chapter": "II",
@@ -358,7 +358,7 @@
       "content_length": 123
     },
     {
-      "id": "073acb89-382d-47",
+      "id": "da34de1c-9311-44",
       "section_number": "49",
       "section_title": "\"Year\", \"Month\":",
       "chapter": "II",
@@ -366,7 +366,7 @@
       "content_length": 188
     },
     {
-      "id": "cce36d03-6509-49",
+      "id": "76b21e66-a97c-4d",
       "section_number": "50",
       "section_title": "\"Section\":",
       "chapter": "II",
@@ -374,7 +374,7 @@
       "content_length": 152
     },
     {
-      "id": "3a658098-ab62-44",
+      "id": "30b27cff-3b51-45",
       "section_number": "51",
       "section_title": "\"Oath\":",
       "chapter": "II",
@@ -382,7 +382,7 @@
       "content_length": 263
     },
     {
-      "id": "aa015685-0fbb-46",
+      "id": "23c154be-1a77-47",
       "section_number": "52",
       "section_title": "\"Good faith\":",
       "chapter": "III",
@@ -390,7 +390,7 @@
       "content_length": 585
     },
     {
-      "id": "e05138da-a9e3-47",
+      "id": "20c359bc-897c-46",
       "section_number": "53",
       "section_title": "Punishments:",
       "chapter": "III",
@@ -398,7 +398,7 @@
       "content_length": 421
     },
     {
-      "id": "ff61ab25-e0bc-4c",
+      "id": "c6badcd9-07bb-40",
       "section_number": "54",
       "section_title": "Commutation of sentence of death:",
       "chapter": "III",
@@ -406,7 +406,7 @@
       "content_length": 572
     },
     {
-      "id": "3e5ae2fb-6e59-47",
+      "id": "b2d1be3d-5124-44",
       "section_number": "55",
       "section_title": "Commutation of sentence of  imprisonment for life:",
       "chapter": "III",
@@ -414,7 +414,7 @@
       "content_length": 1081
     },
     {
-      "id": "14cdc93c-049e-42",
+      "id": "ebbc98ff-1589-42",
       "section_number": "57",
       "section_title": "Fractions of terms of punishment:",
       "chapter": "III",
@@ -422,7 +422,7 @@
       "content_length": 199
     },
     {
-      "id": "6c100f74-3113-49",
+      "id": "a50ee74a-ddb8-44",
       "section_number": "60",
       "section_title": "Sentence may be (in certain case s of imprisonment) wholly or  partly rigorous or simple:",
       "chapter": "III",
@@ -430,7 +430,7 @@
       "content_length": 487
     },
     {
-      "id": "e3d5ae50-c75e-40",
+      "id": "c11014d9-7ac0-4e",
       "section_number": "63",
       "section_title": "Amount of fine:",
       "chapter": "III",
@@ -438,7 +438,7 @@
       "content_length": 175
     },
     {
-      "id": "7fd4dbe5-5bd0-4d",
+      "id": "3fcb07bd-6051-4f",
       "section_number": "64",
       "section_title": "Sentence of imprisonment for non-payment of fine:",
       "chapter": "III",
@@ -446,7 +446,7 @@
       "content_length": 713
     },
     {
-      "id": "119b43ac-7192-48",
+      "id": "e35085da-5ec1-40",
       "section_number": "65",
       "section_title": "Limit to imprisonment for non-payment of fine when imprisonment and fine",
       "chapter": "III",
@@ -454,7 +454,7 @@
       "content_length": 362
     },
     {
-      "id": "3fbbab70-3391-43",
+      "id": "1d69e4b4-5b47-4f",
       "section_number": "66",
       "section_title": "Description of imprisonment  for non-payment of fine:",
       "chapter": "III",
@@ -462,7 +462,7 @@
       "content_length": 231
     },
     {
-      "id": "0395af6c-6ba6-40",
+      "id": "f23b5157-a248-4d",
       "section_number": "67",
       "section_title": "Imprisonment for non-payment of fine wh en offence punishable with fine only:",
       "chapter": "III",
@@ -470,7 +470,7 @@
       "content_length": 641
     },
     {
-      "id": "a4de53d9-b6bd-4a",
+      "id": "d076dcdd-02ba-48",
       "section_number": "68",
       "section_title": "Imprisonment to terminat e on payment of fine:",
       "chapter": "III",
@@ -478,7 +478,7 @@
       "content_length": 205
     },
     {
-      "id": "0d7b8212-feb6-4e",
+      "id": "301926a9-82fe-49",
       "section_number": "69",
       "section_title": "Termination of imprisonment on paym ent of proportional part of fine:",
       "chapter": "III",
@@ -486,7 +486,7 @@
       "content_length": 1193
     },
     {
-      "id": "571d0204-9d37-45",
+      "id": "1b932e0a-8cfb-45",
       "section_number": "70",
       "section_title": "Fine leviable within six years, or durin g imprisonment; Death not to dischar ge propert y",
       "chapter": "III",
@@ -494,7 +494,7 @@
       "content_length": 559
     },
     {
-      "id": "85089387-baa1-4e",
+      "id": "fb6e3c24-828d-48",
       "section_number": "71",
       "section_title": "Limit of punishment of offence made up of several offences:",
       "chapter": "III",
@@ -502,7 +502,7 @@
       "content_length": 1411
     },
     {
-      "id": "d1c59e0d-6894-42",
+      "id": "d9cdf357-1d83-4b",
       "section_number": "72",
       "section_title": "Punishment of person guilty of one of severa l offences, the judgment  stating that it is",
       "chapter": "III",
@@ -510,7 +510,7 @@
       "content_length": 446
     },
     {
-      "id": "146c8563-2b81-45",
+      "id": "61bb1ff0-6185-49",
       "section_number": "73",
       "section_title": "Solitary confinement:",
       "chapter": "III",
@@ -518,7 +518,7 @@
       "content_length": 722
     },
     {
-      "id": "13168c5e-9f33-46",
+      "id": "fd0eb0f4-94c2-4b",
       "section_number": "74",
       "section_title": "Limit of solitary confinement:",
       "chapter": "III",
@@ -526,7 +526,7 @@
       "content_length": 526
     },
     {
-      "id": "6a99e7dd-08fd-4d",
+      "id": "3aaade73-17f1-4e",
       "section_number": "75",
       "section_title": "Enhanced punishment for certain offenders under Chapter XII or Chapter XVII after",
       "chapter": "IV",
@@ -534,7 +534,7 @@
       "content_length": 635
     },
     {
-      "id": "d69976d0-aeb8-4b",
+      "id": "3e806aa0-df2a-4d",
       "section_number": "76",
       "section_title": "Act done by a person bound, or by mistak e of fact believing himself bound, by law:",
       "chapter": "IV",
@@ -542,7 +542,7 @@
       "content_length": 609
     },
     {
-      "id": "ba2dc8a3-f8c3-4d",
+      "id": "1493e577-ec67-47",
       "section_number": "77",
       "section_title": "Act of Judge when acting judicially:",
       "chapter": "IV",
@@ -550,7 +550,7 @@
       "content_length": 223
     },
     {
-      "id": "16f133ba-ac37-4f",
+      "id": "4c80d46d-4272-49",
       "section_number": "78",
       "section_title": "Act done pursuant to the judgment or order of Court:",
       "chapter": "IV",
@@ -558,7 +558,7 @@
       "content_length": 431
     },
     {
-      "id": "744d6287-0b3e-4b",
+      "id": "1f49284a-618c-47",
       "section_number": "79",
       "section_title": "Act done by a person justified, or by mistak e of fact believing himself justified, by law:",
       "chapter": "IV",
@@ -566,7 +566,7 @@
       "content_length": 691
     },
     {
-      "id": "8b7ef04f-11d3-49",
+      "id": "2e43bd71-2f11-45",
       "section_number": "80",
       "section_title": "Accident in doing a lawful act:",
       "chapter": "IV",
@@ -574,7 +574,7 @@
       "content_length": 457
     },
     {
-      "id": "78b4a8a7-49d6-40",
+      "id": "a69cd19e-1a41-4c",
       "section_number": "81",
       "section_title": "Act likely to cause harm, but done without criminal intent, and to prevent other harm:",
       "chapter": "IV",
@@ -582,7 +582,7 @@
       "content_length": 1813
     },
     {
-      "id": "4475af65-f2d2-40",
+      "id": "1aaec4db-b230-4e",
       "section_number": "82",
       "section_title": "Act of a child under seven years of age:",
       "chapter": "IV",
@@ -590,7 +590,7 @@
       "content_length": 127
     },
     {
-      "id": "cde446ee-bb62-4c",
+      "id": "b2adac82-2ec3-48",
       "section_number": "83",
       "section_title": "Act of a child above seven and under twelve of immature understanding:",
       "chapter": "IV",
@@ -598,7 +598,7 @@
       "content_length": 306
     },
     {
-      "id": "7980fdbd-9abe-46",
+      "id": "1cd0344a-26f1-4e",
       "section_number": "84",
       "section_title": "Act of a person of unsound mind:",
       "chapter": "IV",
@@ -606,7 +606,7 @@
       "content_length": 266
     },
     {
-      "id": "42d4cd7d-bcf5-4f",
+      "id": "a2124e7e-11da-41",
       "section_number": "85",
       "section_title": "Act of a person incapable of Judgment by reason of intoxication caused against his will:",
       "chapter": "IV",
@@ -614,7 +614,7 @@
       "content_length": 431
     },
     {
-      "id": "bd1357d8-a14d-4f",
+      "id": "d3351286-0484-45",
       "section_number": "86",
       "section_title": "Offence requiring a particular intent or knowledge committed by one who is",
       "chapter": "IV",
@@ -622,7 +622,7 @@
       "content_length": 478
     },
     {
-      "id": "1572c2e4-bac8-46",
+      "id": "fcc6e8f6-4836-4d",
       "section_number": "87",
       "section_title": "Act not Intended and not known to be likely to cause death or grievous hurt, done by",
       "chapter": "IV",
@@ -630,7 +630,7 @@
       "content_length": 874
     },
     {
-      "id": "6cb0d742-bee9-4e",
+      "id": "7442d199-c345-4b",
       "section_number": "88",
       "section_title": "Act not intended to cause death, done by consent in good faith for person's benefit:",
       "chapter": "IV",
@@ -638,7 +638,7 @@
       "content_length": 755
     },
     {
-      "id": "e91094b5-4901-4e",
+      "id": "baddaf75-a061-47",
       "section_number": "89",
       "section_title": "Act done In good faith for benefit of child or insane person, by or by consent of",
       "chapter": "IV",
@@ -646,7 +646,7 @@
       "content_length": 1596
     },
     {
-      "id": "ed43f20f-f291-4e",
+      "id": "5bcff421-6019-4d",
       "section_number": "90",
       "section_title": "Consent known to be given under fear or misconception:",
       "chapter": "IV",
@@ -654,7 +654,7 @@
       "content_length": 718
     },
     {
-      "id": "75efa5ee-fbcf-4c",
+      "id": "c22ceb64-c6b8-42",
       "section_number": "91",
       "section_title": "Exclusion of acts which are offenc es independently of harm caused:",
       "chapter": "IV",
@@ -662,7 +662,7 @@
       "content_length": 719
     },
     {
-      "id": "05610280-7f75-41",
+      "id": "d2651330-7e59-4b",
       "section_number": "92",
       "section_title": "Act done in good faith for benefi t of a person without consent:",
       "chapter": "IV",
@@ -670,7 +670,7 @@
       "content_length": 2490
     },
     {
-      "id": "de724f83-5f60-41",
+      "id": "98999925-3591-42",
       "section_number": "93",
       "section_title": "Communication made in good faith:",
       "chapter": "IV",
@@ -678,7 +678,7 @@
       "content_length": 447
     },
     {
-      "id": "7dc38edd-285e-4e",
+      "id": "f2130711-e798-45",
       "section_number": "94",
       "section_title": "Act to which a person is compelled by threats:",
       "chapter": "IV",
@@ -686,7 +686,7 @@
       "content_length": 1170
     },
     {
-      "id": "ca1ee025-78e2-4e",
+      "id": "99ba9ccf-0ff4-48",
       "section_number": "95",
       "section_title": "Act causing slight harm:",
       "chapter": "IV",
@@ -694,7 +694,7 @@
       "content_length": 305
     },
     {
-      "id": "8adea7b8-4323-4f",
+      "id": "6994cf41-6c2c-4f",
       "section_number": "96",
       "section_title": "Things done in private defence:",
       "chapter": "IV",
@@ -702,7 +702,7 @@
       "content_length": 129
     },
     {
-      "id": "21241904-40a9-4d",
+      "id": "a4b2cade-1bda-4d",
       "section_number": "97",
       "section_title": "Right of private defence of the body and of property:",
       "chapter": "IV",
@@ -710,7 +710,7 @@
       "content_length": 546
     },
     {
-      "id": "6321d71b-1c88-40",
+      "id": "33517eb2-8034-41",
       "section_number": "98",
       "section_title": "Right of private defence against the act of a person of unsound mind, etc.:",
       "chapter": "IV",
@@ -718,7 +718,7 @@
       "content_length": 989
     },
     {
-      "id": "149b3842-cadb-40",
+      "id": "17bccfb4-0ec5-4b",
       "section_number": "99",
       "section_title": "Act against which there is no  right of private defence:",
       "chapter": "IV",
@@ -726,7 +726,7 @@
       "content_length": 1643
     },
     {
-      "id": "24977839-638d-43",
+      "id": "6a3e7334-7a10-45",
       "section_number": "100",
       "section_title": "When the right of private defence of the body extends to causing death:",
       "chapter": "IV",
@@ -734,7 +734,7 @@
       "content_length": 1089
     },
     {
-      "id": "c6bcb424-4c6a-46",
+      "id": "50854f1e-d3bb-45",
       "section_number": "101",
       "section_title": "When such right extends to causing any harm other than death:",
       "chapter": "IV",
@@ -742,7 +742,7 @@
       "content_length": 415
     },
     {
-      "id": "c01b7261-62a4-4b",
+      "id": "e9c89ac3-24b5-4c",
       "section_number": "102",
       "section_title": "Commencement and continuance of the ri ght of private defence of the body:",
       "chapter": "IV",
@@ -750,7 +750,7 @@
       "content_length": 382
     },
     {
-      "id": "e0083d9d-c1ea-46",
+      "id": "cf253d3d-ffba-48",
       "section_number": "103",
       "section_title": "When the right of private defence of property extends to causing death:",
       "chapter": "IV",
@@ -758,7 +758,7 @@
       "content_length": 885
     },
     {
-      "id": "e657cb14-4a52-46",
+      "id": "a6ca5d86-fecd-4f",
       "section_number": "104",
       "section_title": "When such right extends to causing any harm other than death:",
       "chapter": "IV",
@@ -766,7 +766,7 @@
       "content_length": 530
     },
     {
-      "id": "5b896db3-fd61-4a",
+      "id": "685b5693-313e-4c",
       "section_number": "105",
       "section_title": "Commencement and continuance of the ri ght of private defence of property:",
       "chapter": "IV",
@@ -774,7 +774,7 @@
       "content_length": 1063
     },
     {
-      "id": "ac8de2fd-d700-40",
+      "id": "f4f2fea6-ecd9-40",
       "section_number": "106",
       "section_title": "Right of private defence against deadly assaul t when there is risk of harm to innocent",
       "chapter": "IV",
@@ -782,7 +782,7 @@
       "content_length": 742
     },
     {
-      "id": "c78fc201-562f-40",
+      "id": "5fbd7c67-2295-42",
       "section_number": "107",
       "section_title": "Abetment of a thing:",
       "chapter": "IV",
@@ -790,7 +790,7 @@
       "content_length": 1241
     },
     {
-      "id": "58d4628f-51c9-4e",
+      "id": "fbf828dd-6658-4d",
       "section_number": "108",
       "section_title": "Abettor:",
       "chapter": "IV",
@@ -798,7 +798,7 @@
       "content_length": 4525
     },
     {
-      "id": "4dda4243-ff0a-4f",
+      "id": "87a35bb9-2114-47",
       "section_number": "109",
       "section_title": "Punishment of abetment if the Act abe tted committed In consequence and where no",
       "chapter": "XVI",
@@ -806,7 +806,7 @@
       "content_length": 1496
     },
     {
-      "id": "2c283a77-5321-46",
+      "id": "cccb3dc8-8aa4-43",
       "section_number": "110",
       "section_title": "Punishment of abetment if person abetted does act with different intention from that",
       "chapter": "XVI",
@@ -814,7 +814,7 @@
       "content_length": 443
     },
     {
-      "id": "f76d11a2-7845-49",
+      "id": "c46661ed-e4f8-4b",
       "section_number": "111",
       "section_title": "Liability of abettor when one act abetted and different act done:",
       "chapter": "XVI",
@@ -822,7 +822,7 @@
       "content_length": 1620
     },
     {
-      "id": "e72c28e7-1f2f-4f",
+      "id": "686bb4cf-a3d0-4f",
       "section_number": "112",
       "section_title": "Abettor when liable to cumulative punish ment for act abetted and for act done:",
       "chapter": "XVI",
@@ -830,7 +830,7 @@
       "content_length": 868
     },
     {
-      "id": "904b9541-541c-46",
+      "id": "5a31356c-20f8-49",
       "section_number": "113",
       "section_title": "Liability of abettor for an effect caused by the act abetted different from that intended",
       "chapter": "XVI",
@@ -838,7 +838,7 @@
       "content_length": 877
     },
     {
-      "id": "33bfb1a8-b56a-49",
+      "id": "17628741-c3cd-44",
       "section_number": "114",
       "section_title": "Abettor present when offence is committed:",
       "chapter": "XVI",
@@ -846,7 +846,7 @@
       "content_length": 309
     },
     {
-      "id": "e9e94502-10d9-4e",
+      "id": "eff2f88a-4624-44",
       "section_number": "115",
       "section_title": "Abetment of offence punishable with death or imprisonment for life if offence not",
       "chapter": "XVI",
@@ -854,7 +854,7 @@
       "content_length": 1235
     },
     {
-      "id": "6772fc3c-c51e-41",
+      "id": "5c22c59f-43c4-47",
       "section_number": "116",
       "section_title": "Abetment of offence punishable with im prisonment-if offence be not committed:",
       "chapter": "XVI",
@@ -862,7 +862,7 @@
       "content_length": 1895
     },
     {
-      "id": "5eb09628-14cc-4c",
+      "id": "019f4641-0e26-4d",
       "section_number": "117",
       "section_title": "Abetting commission of offence by th e public or by more than ten persons:",
       "chapter": "XVI",
@@ -870,7 +870,7 @@
       "content_length": 631
     },
     {
-      "id": "561eb421-70be-4e",
+      "id": "f526dd92-bff9-48",
       "section_number": "118",
       "section_title": "Concealing design to commit offence punishable  with death or imprisonment for life if",
       "chapter": "XVI",
@@ -878,7 +878,7 @@
       "content_length": 1170
     },
     {
-      "id": "c8ec5f2e-efa5-43",
+      "id": "ddb06d6d-5290-4e",
       "section_number": "119",
       "section_title": "Public servant concealing design to commit offence which it is his duty to prevent:",
       "chapter": "XVI",
@@ -886,7 +886,7 @@
       "content_length": 1705
     },
     {
-      "id": "db84a549-f58e-46",
+      "id": "30feaa2f-4940-41",
       "section_number": "120",
       "section_title": "Concealing design to commit offen ce punishable with imprisonment:",
       "chapter": "XVI",
@@ -894,7 +894,7 @@
       "content_length": 2076
     },
     {
-      "id": "b59e620c-e81a-4e",
+      "id": "bcc9f371-4fa1-48",
       "section_number": "121",
       "section_title": "Waging or attempting to wage war or ab etting waging of war against Pakistan:",
       "chapter": "XVI",
@@ -902,7 +902,7 @@
       "content_length": 1101
     },
     {
-      "id": "0c7269de-e42b-48",
+      "id": "0d71b716-ff75-40",
       "section_number": "122",
       "section_title": "Collecting arms, etc., with intentio n of waging war against Pakistan:",
       "chapter": "XVI",
@@ -910,7 +910,7 @@
       "content_length": 397
     },
     {
-      "id": "8fdab17c-5280-41",
+      "id": "2f0f1d5a-4d82-4c",
       "section_number": "123",
       "section_title": "Concealing with intent to faci litate design to wage war:",
       "chapter": "XVI",
@@ -918,7 +918,7 @@
       "content_length": 2562
     },
     {
-      "id": "91b07720-506e-4e",
+      "id": "691a0dcd-6b1a-48",
       "section_number": "124",
       "section_title": "Assaulting President, Governor, etc., with in tention to compel or restrain the exercise",
       "chapter": "XVI",
@@ -926,7 +926,7 @@
       "content_length": 1744
     },
     {
-      "id": "cb4cf58c-f333-4a",
+      "id": "97b3b704-d597-4d",
       "section_number": "125",
       "section_title": "Waging war against any  32[] 32 Power in alliance with Pakistan:",
       "chapter": "XVI",
@@ -934,7 +934,7 @@
       "content_length": 447
     },
     {
-      "id": "e19cee27-4dce-43",
+      "id": "0a1ccd8d-726c-41",
       "section_number": "126",
       "section_title": "Committing depredation on territories of Power at peace with Pakistan:",
       "chapter": "XVI",
@@ -942,7 +942,7 @@
       "content_length": 494
     },
     {
-      "id": "e00b0d9a-9c12-46",
+      "id": "34ff9477-82fc-47",
       "section_number": "127",
       "section_title": "Receiving property taken by war or dep redation mentioned in Sections 125 and 126:",
       "chapter": "XVI",
@@ -950,7 +950,7 @@
       "content_length": 420
     },
     {
-      "id": "e561065e-aca9-4b",
+      "id": "4e89ab23-a802-47",
       "section_number": "128",
       "section_title": "Public servant voluntarily allowing pr isoner of State or war to escape:",
       "chapter": "XVI",
@@ -958,7 +958,7 @@
       "content_length": 441
     },
     {
-      "id": "fbf7248c-edd1-4e",
+      "id": "fff85548-ebed-49",
       "section_number": "129",
       "section_title": "Public servant negligently suffering such prisoner to escape:",
       "chapter": "XVI",
@@ -966,7 +966,7 @@
       "content_length": 405
     },
     {
-      "id": "c373be93-1628-47",
+      "id": "af1ac9d5-408b-4f",
       "section_number": "130",
       "section_title": "Aiding escape of, rescuing or harbouring such prisoner:",
       "chapter": "XVI",
@@ -974,7 +974,7 @@
       "content_length": 856
     },
     {
-      "id": "e4bec18d-51d0-4d",
+      "id": "e0772679-a9cb-4c",
       "section_number": "131",
       "section_title": "Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty:",
       "chapter": "XVI",
@@ -982,7 +982,7 @@
       "content_length": 780
     },
     {
-      "id": "0aa63c1b-b063-4c",
+      "id": "5495c8eb-efec-4c",
       "section_number": "132",
       "section_title": "Abetment of mutiny, if mutiny is committed in consequence thereof:",
       "chapter": "XVI",
@@ -990,7 +990,7 @@
       "content_length": 431
     },
     {
-      "id": "a897f025-a47f-45",
+      "id": "43674a72-1fc0-4a",
       "section_number": "133",
       "section_title": "Abetment of assault by soldier, sailor or airman on his superior officer, when in",
       "chapter": "XVI",
@@ -998,7 +998,7 @@
       "content_length": 433
     },
     {
-      "id": "8c55217c-3dc9-41",
+      "id": "bc597329-9691-4a",
       "section_number": "134",
       "section_title": "Abetment of such assault, if the assault is committed:",
       "chapter": "XVI",
@@ -1006,7 +1006,7 @@
       "content_length": 443
     },
     {
-      "id": "1908cacd-5719-49",
+      "id": "c6188169-5d81-45",
       "section_number": "135",
       "section_title": "Abetment of desertion of soldier, sailor or airman:",
       "chapter": "XVI",
@@ -1014,7 +1014,7 @@
       "content_length": 304
     },
     {
-      "id": "805ec14e-e754-48",
+      "id": "6ac51222-bcd8-46",
       "section_number": "136",
       "section_title": "Harbouring deserter:",
       "chapter": "XVI",
@@ -1022,7 +1022,7 @@
       "content_length": 509
     },
     {
-      "id": "921f2f44-eaca-4a",
+      "id": "9633a9bc-cafd-44",
       "section_number": "137",
       "section_title": "Deserter concealed on board merchant vessel through negligence of master:",
       "chapter": "XVI",
@@ -1030,7 +1030,7 @@
       "content_length": 527
     },
     {
-      "id": "62586a97-0790-45",
+      "id": "d1e35336-62cf-4e",
       "section_number": "138",
       "section_title": "Abetment of act of insubordinatio n by soldier, sailor or airman:",
       "chapter": "XVI",
@@ -1038,7 +1038,7 @@
       "content_length": 448
     },
     {
-      "id": "f47c76f8-b4e6-45",
+      "id": "1c5258a3-7a05-4a",
       "section_number": "139",
       "section_title": "Persons subject to certain Acts:",
       "chapter": "XVI",
@@ -1046,7 +1046,7 @@
       "content_length": 309
     },
     {
-      "id": "35f117cc-8c93-41",
+      "id": "74f0e528-6126-4f",
       "section_number": "140",
       "section_title": "Wearing garb or carrying token used  by soldier, sailor or airman:",
       "chapter": "XVI",
@@ -1054,7 +1054,7 @@
       "content_length": 620
     },
     {
-      "id": "dcc5f4a8-f9fd-4a",
+      "id": "6fcdbf0c-3977-46",
       "section_number": "141",
       "section_title": "Unlawful assembly:",
       "chapter": "XVI",
@@ -1062,7 +1062,7 @@
       "content_length": 1145
     },
     {
-      "id": "70864385-e3dc-47",
+      "id": "f00c528f-4714-4f",
       "section_number": "142",
       "section_title": "Being member of unlawful assembly:",
       "chapter": "XVI",
@@ -1070,7 +1070,7 @@
       "content_length": 231
     },
     {
-      "id": "63283cce-7d9d-40",
+      "id": "c74e7507-a2c7-4b",
       "section_number": "143",
       "section_title": "Punishment:",
       "chapter": "XVI",
@@ -1078,7 +1078,7 @@
       "content_length": 200
     },
     {
-      "id": "f885770f-7d97-47",
+      "id": "11aff49a-5df9-47",
       "section_number": "144",
       "section_title": "Joining unlawful assembly armed with deadly weapon:",
       "chapter": "XVI",
@@ -1086,7 +1086,7 @@
       "content_length": 356
     },
     {
-      "id": "c55aa82f-ae04-42",
+      "id": "b619fcc9-13f9-45",
       "section_number": "145",
       "section_title": "Joining or continuing in unlawful asse mbly, knowing it has been commanded to",
       "chapter": "XVI",
@@ -1094,7 +1094,7 @@
       "content_length": 383
     },
     {
-      "id": "44ae7c79-0fe2-4f",
+      "id": "f0510b72-d01d-45",
       "section_number": "146",
       "section_title": "Rioting:",
       "chapter": "XVI",
@@ -1102,7 +1102,7 @@
       "content_length": 231
     },
     {
-      "id": "56c6c40b-f107-44",
+      "id": "03761033-6ae2-41",
       "section_number": "147",
       "section_title": "Punishment for rioting:",
       "chapter": "XVI",
@@ -1110,7 +1110,7 @@
       "content_length": 197
     },
     {
-      "id": "ad97dc49-f9a4-4a",
+      "id": "6a29e321-9266-4c",
       "section_number": "148",
       "section_title": "Rioting, armed with deadly weapon:",
       "chapter": "XVI",
@@ -1118,7 +1118,7 @@
       "content_length": 323
     },
     {
-      "id": "397967d6-81bc-43",
+      "id": "16906832-c006-42",
       "section_number": "149",
       "section_title": "Every member of unlawful assembly guilty of offence committed in prosecution of",
       "chapter": "XVI",
@@ -1126,7 +1126,7 @@
       "content_length": 460
     },
     {
-      "id": "4e42b06c-6135-42",
+      "id": "d5b08a8b-51e8-47",
       "section_number": "150",
       "section_title": "Hiring, or conniving at hiring, of persons to join unlawful assembly:",
       "chapter": "XVI",
@@ -1134,7 +1134,7 @@
       "content_length": 580
     },
     {
-      "id": "e54e256c-5fd9-4a",
+      "id": "1f23d244-9684-47",
       "section_number": "151",
       "section_title": "Knowingly joining or continuing in assemb ly of five or more persons after it has",
       "chapter": "XVI",
@@ -1142,7 +1142,7 @@
       "content_length": 576
     },
     {
-      "id": "8c3e1884-339a-4c",
+      "id": "d2779bce-8ea7-40",
       "section_number": "152",
       "section_title": ".Assaulting to obstructing public se rvant when suppressing riot, etc.:",
       "chapter": "XVI",
@@ -1150,7 +1150,7 @@
       "content_length": 532
     },
     {
-      "id": "5d10ffc1-2248-4a",
+      "id": "63c73378-7245-42",
       "section_number": "153",
       "section_title": "Wantonly giving provocation with intent to cause riot",
       "chapter": "XVI",
@@ -1158,7 +1158,7 @@
       "content_length": 3479
     },
     {
-      "id": "7913a25e-40e2-40",
+      "id": "854f3662-f7b8-42",
       "section_number": "154",
       "section_title": "Owner or occupier of land on which an unlawful assembly is held:",
       "chapter": "XVI",
@@ -1166,7 +1166,7 @@
       "content_length": 933
     },
     {
-      "id": "c966508f-c739-42",
+      "id": "8cb1843b-93d2-41",
       "section_number": "155",
       "section_title": "Liability of person for whos e benefit riot is committed:",
       "chapter": "XVI",
@@ -1174,7 +1174,7 @@
       "content_length": 777
     },
     {
-      "id": "b9889e6f-3d03-46",
+      "id": "ba3399ff-433b-44",
       "section_number": "156",
       "section_title": "Liability of agent of owner or occupi er for whose benefit riot is committed:",
       "chapter": "XVI",
@@ -1182,7 +1182,7 @@
       "content_length": 795
     },
     {
-      "id": "46749c3a-8a50-4d",
+      "id": "9bbf5ca6-981b-41",
       "section_number": "157",
       "section_title": "Harbouring persons hired for an unlawful assembly:",
       "chapter": "XVI",
@@ -1190,7 +1190,7 @@
       "content_length": 487
     },
     {
-      "id": "f0d27c54-e737-43",
+      "id": "a64a617b-4e7a-44",
       "section_number": "158",
       "section_title": "Being hired to take part in an unlawful assembly or riot:",
       "chapter": "XVI",
@@ -1198,7 +1198,7 @@
       "content_length": 681
     },
     {
-      "id": "4531cae2-b69e-4b",
+      "id": "4343f329-f47d-4a",
       "section_number": "159",
       "section_title": "Affray:",
       "chapter": "XVI",
@@ -1206,7 +1206,7 @@
       "content_length": 140
     },
     {
-      "id": "29e13c9d-b1e7-4a",
+      "id": "3f4eae37-4589-43",
       "section_number": "160",
       "section_title": "Punishment for committing affray:",
       "chapter": "XVI",
@@ -1214,7 +1214,7 @@
       "content_length": 306
     },
     {
-      "id": "56f93daf-6320-44",
+      "id": "fb5031f8-c5bb-4c",
       "section_number": "161",
       "section_title": "Public servant taking gratification other th an legal remuneration in respect to an",
       "chapter": "XVI",
@@ -1222,7 +1222,7 @@
       "content_length": 3021
     },
     {
-      "id": "0befd497-b281-4e",
+      "id": "1fd14ff7-8511-4e",
       "section_number": "162",
       "section_title": "Taking gratification, in order by corrupt or  illegal means to infl uence public servant:",
       "chapter": "XVI",
@@ -1230,7 +1230,7 @@
       "content_length": 803
     },
     {
-      "id": "3e07fe07-0fe8-49",
+      "id": "76efc2d5-8f1c-4c",
       "section_number": "163",
       "section_title": "Taking gratification, for exercise of personal influence with public servant:",
       "chapter": "XVI",
@@ -1238,7 +1238,7 @@
       "content_length": 1250
     },
     {
-      "id": "7643aba7-f3a9-45",
+      "id": "b2c6fb25-04ba-4e",
       "section_number": "164",
       "section_title": "Punishment for abetment by public servant of offences defined in Section 162 or 163:",
       "chapter": "XVI",
@@ -1246,7 +1246,7 @@
       "content_length": 741
     },
     {
-      "id": "c14781c3-6609-4b",
+      "id": "4976c4a3-aced-4d",
       "section_number": "165",
       "section_title": "Public servant obtaining valuable thing, with out consideration from person concerned",
       "chapter": "XVI",
@@ -1254,7 +1254,7 @@
       "content_length": 2569
     },
     {
-      "id": "ea288a01-5bbf-45",
+      "id": "9dae44dd-00b5-43",
       "section_number": "166",
       "section_title": "Public servant disobeying law, with in tent to cause injury to any person:",
       "chapter": "XVI",
@@ -1262,7 +1262,7 @@
       "content_length": 786
     },
     {
-      "id": "64ec832c-c8dd-4d",
+      "id": "69a24843-8a47-49",
       "section_number": "167",
       "section_title": "Public servant framing an incorrect docu ment with intent to cause injury:",
       "chapter": "XVI",
@@ -1270,7 +1270,7 @@
       "content_length": 545
     },
     {
-      "id": "3134b2a3-cfe2-45",
+      "id": "36875f03-92dc-43",
       "section_number": "168",
       "section_title": "Public servant unlawfully engaging in trade:",
       "chapter": "XVI",
@@ -1278,7 +1278,7 @@
       "content_length": 291
     },
     {
-      "id": "55e9acc1-1c89-40",
+      "id": "e0e3c8b5-89c3-4f",
       "section_number": "169",
       "section_title": "Public servant unlawfully buying or bidding for property:",
       "chapter": "XVI",
@@ -1286,7 +1286,7 @@
       "content_length": 493
     },
     {
-      "id": "dda098d6-7e12-48",
+      "id": "f0840308-3b90-40",
       "section_number": "170",
       "section_title": "Personating a public servant:",
       "chapter": "XVI",
@@ -1294,7 +1294,7 @@
       "content_length": 435
     },
     {
-      "id": "ad6082a5-7ffa-40",
+      "id": "85e3f423-166e-4f",
       "section_number": "171",
       "section_title": "Wearing garb or carrying token used by  public servant with fraudulent intent:",
       "chapter": "XVI",
@@ -1302,7 +1302,7 @@
       "content_length": 6388
     },
     {
-      "id": "2b87ae01-7f2f-4f",
+      "id": "642e4af6-a42a-45",
       "section_number": "172",
       "section_title": "Absconding to avoid service of summons or other proceeding:",
       "chapter": "XVI",
@@ -1310,7 +1310,7 @@
       "content_length": 715
     },
     {
-      "id": "97454efa-9742-4d",
+      "id": "ae6dae51-45d9-44",
       "section_number": "173",
       "section_title": "Preventing service of summons or other pr oceeding, or preventing publication thereof:",
       "chapter": "XVI",
@@ -1318,7 +1318,7 @@
       "content_length": 1193
     },
     {
-      "id": "77149d8e-98ad-4b",
+      "id": "a1ca37fe-ea21-42",
       "section_number": "174",
       "section_title": "Non-attendance in obedience to an order from public servant:",
       "chapter": "XVI",
@@ -1326,7 +1326,7 @@
       "content_length": 1512
     },
     {
-      "id": "29ca3c75-dece-42",
+      "id": "ddcfc1cb-ea78-4b",
       "section_number": "175",
       "section_title": "Omission to produce document  to public servant by person legally bound to produce",
       "chapter": "XVI",
@@ -1334,7 +1334,7 @@
       "content_length": 829
     },
     {
-      "id": "40637518-ba4c-46",
+      "id": "e60d08ca-3b6f-4d",
       "section_number": "176",
       "section_title": "Omission to give notice or information to public servant by person legally bound to",
       "chapter": "XVI",
@@ -1342,7 +1342,7 @@
       "content_length": 1212
     },
     {
-      "id": "76e20764-4dff-4a",
+      "id": "39b0e7ef-fd7f-4b",
       "section_number": "177",
       "section_title": "Furnishing false information:",
       "chapter": "XVI",
@@ -1350,7 +1350,7 @@
       "content_length": 2120
     },
     {
-      "id": "51dbd3bf-7587-43",
+      "id": "7cd662f3-39ce-46",
       "section_number": "178",
       "section_title": "Refusing oath or affirmation when duly required by public servant to make it:",
       "chapter": "XVI",
@@ -1358,7 +1358,7 @@
       "content_length": 446
     },
     {
-      "id": "ff2ae81d-d074-46",
+      "id": "9c923217-0015-49",
       "section_number": "179",
       "section_title": "Refusing to answer public s ervant authorised to question:",
       "chapter": "XVI",
@@ -1366,7 +1366,7 @@
       "content_length": 482
     },
     {
-      "id": "f7a8cde4-6238-47",
+      "id": "79fe6a75-53a4-45",
       "section_number": "180",
       "section_title": "Refusing to sign statement:",
       "chapter": "XVI",
@@ -1374,7 +1374,7 @@
       "content_length": 370
     },
     {
-      "id": "ba19dda2-13b4-49",
+      "id": "c6e679bc-01f9-48",
       "section_number": "181",
       "section_title": "False statement on oath or affirmation to public servant or person authorised to",
       "chapter": "XVI",
@@ -1382,7 +1382,7 @@
       "content_length": 651
     },
     {
-      "id": "feb1af1e-1457-4d",
+      "id": "26528e7f-0d0b-43",
       "section_number": "182",
       "section_title": "False information with intent to cause public servant to use his lawful power to the",
       "chapter": "XVI",
@@ -1390,7 +1390,7 @@
       "content_length": 1830
     },
     {
-      "id": "56ffa615-c338-42",
+      "id": "632f5164-da85-49",
       "section_number": "183",
       "section_title": "Resistance to the taking of property by the lawful authority of a public servant:",
       "chapter": "XVI",
@@ -1398,7 +1398,7 @@
       "content_length": 451
     },
     {
-      "id": "49a30f23-6dd7-40",
+      "id": "ee05a11a-4eeb-42",
       "section_number": "184",
       "section_title": "Obstructing sale of property offered fo r sale by authority of public servant:",
       "chapter": "XVI",
@@ -1406,7 +1406,7 @@
       "content_length": 416
     },
     {
-      "id": "ed4b10df-08f1-43",
+      "id": "c12eddbe-52c9-46",
       "section_number": "185",
       "section_title": "Illegal purchase or bid for property offered for sale by authority of public servant:",
       "chapter": "XVI",
@@ -1414,7 +1414,7 @@
       "content_length": 667
     },
     {
-      "id": "2a95ecfe-59a3-4c",
+      "id": "bd0e7f09-4841-49",
       "section_number": "186",
       "section_title": "Obstructing public servant in discharge of public functions:",
       "chapter": "XVI",
@@ -1422,7 +1422,7 @@
       "content_length": 359
     },
     {
-      "id": "e4d52c68-c0e2-49",
+      "id": "b9d51c4e-94df-41",
       "section_number": "187",
       "section_title": "Omission to assist public servant wh en bound by law to give assistance:",
       "chapter": "XVI",
@@ -1430,7 +1430,7 @@
       "content_length": 960
     },
     {
-      "id": "db6f74b8-a768-48",
+      "id": "eb6d3f40-67ad-4a",
       "section_number": "188",
       "section_title": "Disobedience to order duly promulgated by public servant:",
       "chapter": "XVI",
@@ -1438,7 +1438,7 @@
       "content_length": 1560
     },
     {
-      "id": "aa76cff9-0b5c-48",
+      "id": "5b2cb682-d5f1-4e",
       "section_number": "189",
       "section_title": "Threat of injury to public servant:",
       "chapter": "XVI",
@@ -1446,7 +1446,7 @@
       "content_length": 491
     },
     {
-      "id": "e5b88f5f-985a-4f",
+      "id": "3d9536c5-b1ae-43",
       "section_number": "190",
       "section_title": "Threat of injury to induce person to refrain  from applying for protection to public",
       "chapter": "XVI",
@@ -1454,7 +1454,7 @@
       "content_length": 590
     },
     {
-      "id": "d11d828c-3c60-4e",
+      "id": "1f7f7dfc-906b-4f",
       "section_number": "191",
       "section_title": "Giving false evidence:",
       "chapter": "XVI",
@@ -1462,7 +1462,7 @@
       "content_length": 2101
     },
     {
-      "id": "58d5c4f6-986d-40",
+      "id": "887cc69a-4e2c-43",
       "section_number": "192",
       "section_title": "Fabricating false evidence:",
       "chapter": "XVI",
@@ -1470,7 +1470,7 @@
       "content_length": 1385
     },
     {
-      "id": "05eca374-978f-4e",
+      "id": "50d1819e-7a0f-4d",
       "section_number": "193",
       "section_title": "Punishment for false evidence:",
       "chapter": "XVI",
@@ -1478,7 +1478,7 @@
       "content_length": 1391
     },
     {
-      "id": "84ba748c-15fb-48",
+      "id": "c716adb0-d229-41",
       "section_number": "194",
       "section_title": "Giving or fabricating false evidence with intent to procure conviction of capital",
       "chapter": "XVI",
@@ -1486,7 +1486,7 @@
       "content_length": 750
     },
     {
-      "id": "031d2c34-00aa-47",
+      "id": "8392aaa7-2361-44",
       "section_number": "195",
       "section_title": "Giving or fabricating false evidence with intent to procure conviction of offence",
       "chapter": "XVI",
@@ -1494,7 +1494,7 @@
       "content_length": 949
     },
     {
-      "id": "eeab0283-c483-43",
+      "id": "097d62cf-62e8-44",
       "section_number": "196",
       "section_title": "Using evidence known to be false:",
       "chapter": "XVI",
@@ -1502,7 +1502,7 @@
       "content_length": 256
     },
     {
-      "id": "c10384a4-b9e5-43",
+      "id": "f8888f2b-4c18-46",
       "section_number": "197",
       "section_title": "Issuing or signing false certificate:",
       "chapter": "XVI",
@@ -1510,7 +1510,7 @@
       "content_length": 360
     },
     {
-      "id": "7bd58e08-f023-45",
+      "id": "f3d09264-38f8-46",
       "section_number": "198",
       "section_title": "Using as true a certificate known to be false:",
       "chapter": "XVI",
@@ -1518,7 +1518,7 @@
       "content_length": 266
     },
     {
-      "id": "97350192-5bdc-4b",
+      "id": "1aee3ac2-92c6-41",
       "section_number": "199",
       "section_title": "False statement made in declaration which is by law receivable as evidence:",
       "chapter": "XVI",
@@ -1526,7 +1526,7 @@
       "content_length": 565
     },
     {
-      "id": "016bb3cf-6352-4c",
+      "id": "814c8c57-b240-4c",
       "section_number": "200",
       "section_title": "Using as true such declaration knowing it to be false:",
       "chapter": "XVI",
@@ -1534,7 +1534,7 @@
       "content_length": 419
     },
     {
-      "id": "9ae302c0-cf66-4a",
+      "id": "df093190-2bd8-4c",
       "section_number": "201",
       "section_title": "Causing disappearance of evidence of offence,  or giving false in formation to screen",
       "chapter": "XVI",
@@ -1542,7 +1542,7 @@
       "content_length": 1566
     },
     {
-      "id": "23f235ef-65a5-47",
+      "id": "40f2eb38-bd71-46",
       "section_number": "202",
       "section_title": "Intentional omission to give informatio n of offence by person bound to inform:",
       "chapter": "XVI",
@@ -1550,7 +1550,7 @@
       "content_length": 409
     },
     {
-      "id": "8f318210-d1be-47",
+      "id": "606e749a-a1cc-46",
       "section_number": "203",
       "section_title": "Giving false information respecting an offence committed:",
       "chapter": "XVI",
@@ -1558,7 +1558,7 @@
       "content_length": 701
     },
     {
-      "id": "6abd4a8d-f0cd-46",
+      "id": "33b0faab-ed5e-41",
       "section_number": "204",
       "section_title": "Destruction of document to prevent its production as evidence:",
       "chapter": "XVI",
@@ -1566,7 +1566,7 @@
       "content_length": 709
     },
     {
-      "id": "4402816f-58cd-4f",
+      "id": "6e84d237-81c5-4b",
       "section_number": "205",
       "section_title": "False personation for purpose of act or  proceeding in suit or prosecution:",
       "chapter": "XVI",
@@ -1574,7 +1574,7 @@
       "content_length": 468
     },
     {
-      "id": "43a00d51-eb7c-43",
+      "id": "1160282c-a52d-4c",
       "section_number": "206",
       "section_title": "Fraudulent removal or concealment of propert y to prevent its seizure as forfeited or in",
       "chapter": "XVI",
@@ -1582,7 +1582,7 @@
       "content_length": 787
     },
     {
-      "id": "b67c99a9-18f2-4a",
+      "id": "d38afeca-f93a-48",
       "section_number": "207",
       "section_title": "Fraudulent claim to property to prevent it s seizure as forfeited or in execution:",
       "chapter": "XVI",
@@ -1590,7 +1590,7 @@
       "content_length": 911
     },
     {
-      "id": "3a3dd2c6-e312-4a",
+      "id": "6e7fabcd-ebbe-41",
       "section_number": "208",
       "section_title": "Fraudulently suffering decree for sum not due:",
       "chapter": "XVI",
@@ -1598,7 +1598,7 @@
       "content_length": 1051
     },
     {
-      "id": "ee489467-236e-44",
+      "id": "cd5be3e6-e0b3-41",
       "section_number": "209",
       "section_title": "Dishonestly making false claim in Court:",
       "chapter": "XVI",
@@ -1606,7 +1606,7 @@
       "content_length": 331
     },
     {
-      "id": "2caa46fc-1350-4d",
+      "id": "47363847-03e0-44",
       "section_number": "210",
       "section_title": "Fraudulently obtaining decree for sum not due:",
       "chapter": "XVI",
@@ -1614,7 +1614,7 @@
       "content_length": 620
     },
     {
-      "id": "946b6553-3df2-45",
+      "id": "17212dbf-c8df-49",
       "section_number": "211",
       "section_title": "False charge of offence made with intent to injure:",
       "chapter": "XVI",
@@ -1622,7 +1622,7 @@
       "content_length": 802
     },
     {
-      "id": "53ccae90-c09c-4c",
+      "id": "2280edfe-11da-49",
       "section_number": "212",
       "section_title": "Harbouring offender:",
       "chapter": "XVI",
@@ -1630,7 +1630,7 @@
       "content_length": 1914
     },
     {
-      "id": "bc9420e1-a269-4e",
+      "id": "ee6a1e24-7656-47",
       "section_number": "213",
       "section_title": "Taking gift, etc., to screen an offender from punishment:",
       "chapter": "XVI",
@@ -1638,7 +1638,7 @@
       "content_length": 1273
     },
     {
-      "id": "cb9c0457-2861-43",
+      "id": "b15cb409-cdc8-4e",
       "section_number": "214",
       "section_title": "Offering gift or restoration of propert y in consideration of screening offender:",
       "chapter": "XVI",
@@ -1646,7 +1646,7 @@
       "content_length": 1439
     },
     {
-      "id": "d5be8593-5978-42",
+      "id": "68a17962-6f4f-48",
       "section_number": "215",
       "section_title": "Taking gift to help to recover property, etc.:",
       "chapter": "XVI",
@@ -1654,7 +1654,7 @@
       "content_length": 526
     },
     {
-      "id": "2161e52e-3be9-43",
+      "id": "34471e84-6ee3-48",
       "section_number": "216",
       "section_title": "Harbouring offender who has escaped from custody or whose apprehension has been",
       "chapter": "XVI",
@@ -1662,7 +1662,7 @@
       "content_length": 2923
     },
     {
-      "id": "6d323166-648c-40",
+      "id": "c730a8f1-90e5-40",
       "section_number": "217",
       "section_title": "Public servant disobeying direction of law with intent to save persons from",
       "chapter": "XVI",
@@ -1670,7 +1670,7 @@
       "content_length": 739
     },
     {
-      "id": "bfc040fa-e971-46",
+      "id": "08c4dc22-ebe9-41",
       "section_number": "218",
       "section_title": "Public servant framing incorrec t record or writing with intent to save person from",
       "chapter": "XVI",
@@ -1678,7 +1678,7 @@
       "content_length": 863
     },
     {
-      "id": "61838016-dd87-40",
+      "id": "5d30c7cd-1f1c-43",
       "section_number": "219",
       "section_title": "Public servant in judicial proceeding corr uptly making report, etc., contrary to law:",
       "chapter": "XVI",
@@ -1686,7 +1686,7 @@
       "content_length": 425
     },
     {
-      "id": "e998f4ab-87d2-43",
+      "id": "fc9c09e2-9e13-45",
       "section_number": "220",
       "section_title": "Commitment for trial or confinement b y person havin g authorit y who knows that he is",
       "chapter": "XVI",
@@ -1694,7 +1694,7 @@
       "content_length": 597
     },
     {
-      "id": "693370b7-3fc2-4c",
+      "id": "ea188c9c-57d0-41",
       "section_number": "221",
       "section_title": "Intentional omission to apprehend on the part of public servant bound to apprehend:",
       "chapter": "XVI",
@@ -1702,7 +1702,7 @@
       "content_length": 1414
     },
     {
-      "id": "11ad1091-e37f-40",
+      "id": "75be3edc-2e9a-4b",
       "section_number": "222",
       "section_title": "Intentional omission to apprehend on the part of public servant bound to apprehend",
       "chapter": "XVI",
@@ -1710,7 +1710,7 @@
       "content_length": 1516
     },
     {
-      "id": "24d8f5ce-8d20-49",
+      "id": "fa9027c7-5779-4b",
       "section_number": "223",
       "section_title": "Escape from confinement or custody negligently suffered by public servant:",
       "chapter": "XVI",
@@ -1718,7 +1718,7 @@
       "content_length": 441
     },
     {
-      "id": "93bb76f8-881d-40",
+      "id": "edd41577-ae79-4f",
       "section_number": "224",
       "section_title": "Resistance or obstruction by a pers on to his lawful apprehension:",
       "chapter": "XVI",
@@ -1726,7 +1726,7 @@
       "content_length": 722
     },
     {
-      "id": "19d5d212-3a41-40",
+      "id": "4cf1a793-d898-4b",
       "section_number": "225",
       "section_title": "Resistance or obstruction to lawful  apprehension of another person:",
       "chapter": "XVI",
@@ -1734,7 +1734,7 @@
       "content_length": 3243
     },
     {
-      "id": "ba0b5003-a841-49",
+      "id": "5fa808cc-08c3-45",
       "section_number": "227",
       "section_title": "Violation of condition of  remission of punishment:",
       "chapter": "XVI",
@@ -1742,7 +1742,7 @@
       "content_length": 457
     },
     {
-      "id": "525cf992-fb86-4d",
+      "id": "3fc0b73f-f7dd-42",
       "section_number": "228",
       "section_title": "Intentional insult or interruption to public  servant sitting in judicial proceeding:",
       "chapter": "XVI",
@@ -1750,7 +1750,7 @@
       "content_length": 430
     },
     {
-      "id": "9562927d-77c6-4a",
+      "id": "223e5875-bf5f-42",
       "section_number": "229",
       "section_title": "Personation of a Juror or assessor:",
       "chapter": "XVI",
@@ -1758,7 +1758,7 @@
       "content_length": 632
     },
     {
-      "id": "9df1297c-649c-45",
+      "id": "9e416761-1b87-49",
       "section_number": "230",
       "section_title": "\"Coin\" defined:",
       "chapter": "XVI",
@@ -1766,7 +1766,7 @@
       "content_length": 688
     },
     {
-      "id": "7cc33a97-e986-48",
+      "id": "b2ecc4f4-6309-4d",
       "section_number": "231",
       "section_title": "Counterfeiting coin:",
       "chapter": "XVI",
@@ -1774,7 +1774,7 @@
       "content_length": 468
     },
     {
-      "id": "fb69ad8b-f604-4f",
+      "id": "e870c27e-459a-41",
       "section_number": "232",
       "section_title": "Counterfeiting Pakistan coin:",
       "chapter": "XVI",
@@ -1782,7 +1782,7 @@
       "content_length": 311
     },
     {
-      "id": "8bb39620-9853-4c",
+      "id": "220992c3-fee7-47",
       "section_number": "233",
       "section_title": "Making or selling instrume nt for counterfeiting coin:",
       "chapter": "XVI",
@@ -1790,7 +1790,7 @@
       "content_length": 488
     },
     {
-      "id": "84a0a633-68f2-49",
+      "id": "e5c99362-8d40-42",
       "section_number": "234",
       "section_title": "Making or selling instrument fo r counterfeiting Pakistan coin:",
       "chapter": "XVI",
@@ -1798,7 +1798,7 @@
       "content_length": 504
     },
     {
-      "id": "07c37622-c3e1-4a",
+      "id": "a9bfdc14-be51-4b",
       "section_number": "235",
       "section_title": "Possession of instrument or material for the purpose of using the same for",
       "chapter": "XVI",
@@ -1806,7 +1806,7 @@
       "content_length": 664
     },
     {
-      "id": "496e0489-1676-48",
+      "id": "2bb73b88-5946-45",
       "section_number": "236",
       "section_title": "Abetting in Pakistan the counterfei ting out of Pakistan of coin:",
       "chapter": "XVI",
@@ -1814,7 +1814,7 @@
       "content_length": 594
     },
     {
-      "id": "c1bb9b3a-1cc9-4a",
+      "id": "e092feed-370a-4a",
       "section_number": "238",
       "section_title": "Import or export of counterfeits of Pakistan coin:",
       "chapter": "XVI",
@@ -1822,7 +1822,7 @@
       "content_length": 384
     },
     {
-      "id": "202ce656-5072-48",
+      "id": "83066505-d080-48",
       "section_number": "239",
       "section_title": "Delivery of coin, possessed with knowledge that it is counterfeit:",
       "chapter": "XVI",
@@ -1830,7 +1830,7 @@
       "content_length": 471
     },
     {
-      "id": "d6bba76f-7fdf-46",
+      "id": "f42f67f1-8a83-4b",
       "section_number": "240",
       "section_title": "Delivery of Pakistan coin possessed with  knowledge that it is counterfeit:",
       "chapter": "XVI",
@@ -1838,7 +1838,7 @@
       "content_length": 544
     },
     {
-      "id": "f540869e-c863-4d",
+      "id": "4384565d-6135-4a",
       "section_number": "241",
       "section_title": "Delivery of coin as genuine, which, when fi rst possessed, the deliver er did not know to",
       "chapter": "XVI",
@@ -1846,7 +1846,7 @@
       "content_length": 1120
     },
     {
-      "id": "022e97a2-ff3e-44",
+      "id": "90ed6049-0c4f-47",
       "section_number": "242",
       "section_title": "Possession of counterfeit coin b y person who knew it to be  counterfeit when he became",
       "chapter": "XVI",
@@ -1854,7 +1854,7 @@
       "content_length": 454
     },
     {
-      "id": "e50bd29f-b6eb-4c",
+      "id": "84ab717f-dc4b-45",
       "section_number": "243",
       "section_title": "Possession of Pakistan coin by person who knew it to be counterfeit when he became",
       "chapter": "XVI",
@@ -1862,7 +1862,7 @@
       "content_length": 481
     },
     {
-      "id": "54adf743-32d5-40",
+      "id": "55745607-c457-48",
       "section_number": "244",
       "section_title": "Person employed in mint causing coin to be  of different weight or composition from",
       "chapter": "XVI",
@@ -1870,7 +1870,7 @@
       "content_length": 529
     },
     {
-      "id": "0f3ee35d-e219-43",
+      "id": "a87cef1e-79d4-44",
       "section_number": "245",
       "section_title": "Unlawfully taking coining instrument from mint:",
       "chapter": "XVI",
@@ -1878,7 +1878,7 @@
       "content_length": 326
     },
     {
-      "id": "a385a132-8051-41",
+      "id": "0f12a65b-8d91-41",
       "section_number": "246",
       "section_title": "Fraudulently or dishonestly diminishing we ight or altering co mposition of coin:",
       "chapter": "XVI",
@@ -1886,7 +1886,7 @@
       "content_length": 507
     },
     {
-      "id": "5a49a650-0579-4d",
+      "id": "ceb67c50-8590-48",
       "section_number": "247",
       "section_title": "Fraudulently or dishonestly diminishing weig ht or altering composition of Pakistan",
       "chapter": "XVI",
@@ -1894,7 +1894,7 @@
       "content_length": 393
     },
     {
-      "id": "65bbddaf-cf31-49",
+      "id": "4a6b346a-5d69-4c",
       "section_number": "248",
       "section_title": "Altering appearance of coin with intent that it shall pass as coin of different",
       "chapter": "XVI",
@@ -1902,7 +1902,7 @@
       "content_length": 407
     },
     {
-      "id": "5960f73f-7c0d-41",
+      "id": "232a157c-c839-40",
       "section_number": "249",
       "section_title": "Altering appearance of Pakistan coin with inte nt that it shall pass as coin of different",
       "chapter": "XVI",
@@ -1910,7 +1910,7 @@
       "content_length": 436
     },
     {
-      "id": "5f9619c8-98a4-4b",
+      "id": "de933bfe-91f3-4f",
       "section_number": "250",
       "section_title": "Delivery of coin, possessed with knowledge that it is altered:",
       "chapter": "XVI",
@@ -1918,7 +1918,7 @@
       "content_length": 619
     },
     {
-      "id": "19176c2f-35f3-43",
+      "id": "38621d89-f375-41",
       "section_number": "251",
       "section_title": "Delivery of Pakistan coin possessed wi th knowledge that it is altered:",
       "chapter": "XVI",
@@ -1926,7 +1926,7 @@
       "content_length": 626
     },
     {
-      "id": "9899a62a-fa9b-48",
+      "id": "42a21f2d-92df-41",
       "section_number": "252",
       "section_title": "Possession of coin by person who knew it to be altered when he became possessed",
       "chapter": "XVI",
@@ -1934,7 +1934,7 @@
       "content_length": 549
     },
     {
-      "id": "827bbf4a-a970-4c",
+      "id": "a423e462-f3c1-43",
       "section_number": "253",
       "section_title": "Possession of Pakistan coin by person who knew it to by altered when he became",
       "chapter": "XVI",
@@ -1942,7 +1942,7 @@
       "content_length": 553
     },
     {
-      "id": "6370f4f4-74ca-44",
+      "id": "b88d6f61-a94f-42",
       "section_number": "254",
       "section_title": "Delivery of coin as genuine which, when fi rst possessed, the deliver er did not know to",
       "chapter": "XVI",
@@ -1950,7 +1950,7 @@
       "content_length": 826
     },
     {
-      "id": "5aea9f97-2ba5-46",
+      "id": "e50a213b-f324-47",
       "section_number": "255",
       "section_title": "Counterfeiting Government stamp:",
       "chapter": "XVI",
@@ -1958,7 +1958,7 @@
       "content_length": 525
     },
     {
-      "id": "d80341dd-50f6-4c",
+      "id": "fccf2020-6a7f-44",
       "section_number": "256",
       "section_title": "Having possession of instrument or mate rial for counterfeiting Government stamp:",
       "chapter": "XVI",
@@ -1966,7 +1966,7 @@
       "content_length": 486
     },
     {
-      "id": "38fc424c-f283-42",
+      "id": "0568fdac-bdb7-4d",
       "section_number": "257",
       "section_title": "Making or selling instrument fo r counterfeiting Government stamp:",
       "chapter": "XVI",
@@ -1974,7 +1974,7 @@
       "content_length": 525
     },
     {
-      "id": "86a27338-555f-4a",
+      "id": "1f8952cf-770a-4d",
       "section_number": "258",
       "section_title": "Sale of counterfeit Government stamp:",
       "chapter": "XVI",
@@ -1982,7 +1982,7 @@
       "content_length": 355
     },
     {
-      "id": "8994b996-6890-44",
+      "id": "2dbe0b04-7faf-46",
       "section_number": "259",
       "section_title": "Having possession of co unterfeit Government stamp:",
       "chapter": "XVI",
@@ -1990,7 +1990,7 @@
       "content_length": 452
     },
     {
-      "id": "246027b6-27fa-43",
+      "id": "274f11e4-2bce-42",
       "section_number": "260",
       "section_title": "Using as genuine a Government stamp known to be counterfeit:",
       "chapter": "XVI",
@@ -1998,7 +1998,7 @@
       "content_length": 329
     },
     {
-      "id": "bdb9c20b-db5b-44",
+      "id": "78b663fe-a979-42",
       "section_number": "261",
       "section_title": "Effacing writing from substance, Governme nt stamp, or removi ng from document a",
       "chapter": "XVI",
@@ -2006,7 +2006,7 @@
       "content_length": 693
     },
     {
-      "id": "8fcf09c4-57b9-45",
+      "id": "128bec6e-bb6c-40",
       "section_number": "262",
       "section_title": "Using Government stamp known to have been before used:",
       "chapter": "XVI",
@@ -2014,7 +2014,7 @@
       "content_length": 385
     },
     {
-      "id": "ea6d6810-4b3f-45",
+      "id": "695138a3-ace4-4e",
       "section_number": "263",
       "section_title": "Erasure of mark denoting  that has been used:",
       "chapter": "XVI",
@@ -2022,7 +2022,7 @@
       "content_length": 2029
     },
     {
-      "id": "657fdc5f-007e-42",
+      "id": "519ff6ae-ebcb-40",
       "section_number": "264",
       "section_title": "Fraudulent use of false instrument for weighing:",
       "chapter": "XVI",
@@ -2030,7 +2030,7 @@
       "content_length": 273
     },
     {
-      "id": "02f8949c-204b-4e",
+      "id": "4a8ed21c-12b4-46",
       "section_number": "265",
       "section_title": "Fraudulent use of false weight or measure:",
       "chapter": "XVI",
@@ -2038,7 +2038,7 @@
       "content_length": 388
     },
     {
-      "id": "8e9e1152-1950-41",
+      "id": "42592050-be5b-4c",
       "section_number": "266",
       "section_title": "Being in possession of false weight or measure:",
       "chapter": "XVI",
@@ -2046,7 +2046,7 @@
       "content_length": 387
     },
     {
-      "id": "cbd1706e-ed75-4c",
+      "id": "fb7357ca-ffbb-4c",
       "section_number": "267",
       "section_title": "Making or selling false weight or measure:",
       "chapter": "XVI",
@@ -2054,7 +2054,7 @@
       "content_length": 518
     },
     {
-      "id": "8c18c7b5-ebc8-4b",
+      "id": "324b34d1-bc89-45",
       "section_number": "268",
       "section_title": "Public nuisance:",
       "chapter": "XVI",
@@ -2062,7 +2062,7 @@
       "content_length": 490
     },
     {
-      "id": "7bd446b7-4a0a-47",
+      "id": "a0ba105e-4a8e-4c",
       "section_number": "269",
       "section_title": "Negligent act likely to spread infection of disease dangerous to life:",
       "chapter": "XVI",
@@ -2070,7 +2070,7 @@
       "content_length": 389
     },
     {
-      "id": "9cd00e67-512e-43",
+      "id": "35a3a565-199e-47",
       "section_number": "270",
       "section_title": "Malignant act likely to spread infect ion of disease dangerous to life:",
       "chapter": "XVI",
@@ -2078,7 +2078,7 @@
       "content_length": 374
     },
     {
-      "id": "4de911ac-cc61-4b",
+      "id": "8508cac6-2bd4-4a",
       "section_number": "271",
       "section_title": "Disobedience to quarantine rule:",
       "chapter": "XVI",
@@ -2086,7 +2086,7 @@
       "content_length": 544
     },
     {
-      "id": "9da08f52-a1a9-42",
+      "id": "82e3c3ba-9402-4f",
       "section_number": "272",
       "section_title": "Adulteration of food or drink intended for sale:",
       "chapter": "XVI",
@@ -2094,7 +2094,7 @@
       "content_length": 467
     },
     {
-      "id": "89ab1e32-c780-4e",
+      "id": "b73d30ea-d4b2-48",
       "section_number": "273",
       "section_title": "Sale of noxious food or drink:",
       "chapter": "XVI",
@@ -2102,7 +2102,7 @@
       "content_length": 470
     },
     {
-      "id": "daa5a26b-3583-44",
+      "id": "66263011-8b28-41",
       "section_number": "274",
       "section_title": "Adulteration of drugs:",
       "chapter": "XVI",
@@ -2110,7 +2110,7 @@
       "content_length": 574
     },
     {
-      "id": "a2eefcfc-d1aa-4e",
+      "id": "be9f8e6b-389f-43",
       "section_number": "275",
       "section_title": "Sale of adulterated drugs:",
       "chapter": "XVI",
@@ -2118,7 +2118,7 @@
       "content_length": 610
     },
     {
-      "id": "3e1eaab2-31b4-41",
+      "id": "0846f878-d31d-41",
       "section_number": "276",
       "section_title": "Sale of drug as a different drug or preparation:",
       "chapter": "XVI",
@@ -2126,7 +2126,7 @@
       "content_length": 427
     },
     {
-      "id": "7270518d-9a3b-4e",
+      "id": "6e2e659b-d489-41",
       "section_number": "277",
       "section_title": "Fouling water of public spring or reservoir:",
       "chapter": "XVI",
@@ -2134,7 +2134,7 @@
       "content_length": 412
     },
     {
-      "id": "b4920a34-d3ab-44",
+      "id": "75283335-b821-43",
       "section_number": "278",
       "section_title": "Making atmosphere noxious to health:",
       "chapter": "XVI",
@@ -2142,7 +2142,7 @@
       "content_length": 347
     },
     {
-      "id": "318f250a-2f0e-42",
+      "id": "5934485f-25b5-46",
       "section_number": "279",
       "section_title": "Rash driving or riding on a public way:",
       "chapter": "XVI",
@@ -2150,7 +2150,7 @@
       "content_length": 419
     },
     {
-      "id": "20970110-2035-4a",
+      "id": "2e97bfe4-98cb-40",
       "section_number": "280",
       "section_title": "Rash navigation of vessel:",
       "chapter": "XVI",
@@ -2158,7 +2158,7 @@
       "content_length": 369
     },
     {
-      "id": "e3ba6f3a-e058-45",
+      "id": "0b3cb666-7a01-41",
       "section_number": "281",
       "section_title": "Exhibition of false light, mark or buoy:",
       "chapter": "XVI",
@@ -2166,7 +2166,7 @@
       "content_length": 319
     },
     {
-      "id": "abc431b7-debb-4b",
+      "id": "e654e287-97e1-4c",
       "section_number": "282",
       "section_title": "Conveying person by water for hire in unsafe or overloaded vessel:",
       "chapter": "XVI",
@@ -2174,7 +2174,7 @@
       "content_length": 461
     },
     {
-      "id": "c2a237f7-3739-49",
+      "id": "310277f7-8324-45",
       "section_number": "283",
       "section_title": "Danger or obstruction in public  way or line of navigation:",
       "chapter": "XVI",
@@ -2182,7 +2182,7 @@
       "content_length": 363
     },
     {
-      "id": "92b33cab-d5b9-4f",
+      "id": "cafcd002-623e-49",
       "section_number": "284",
       "section_title": "Negligent conduct with respect to poisonous substance:",
       "chapter": "XVI",
@@ -2190,7 +2190,7 @@
       "content_length": 616
     },
     {
-      "id": "e153e0e9-4f66-47",
+      "id": "83bbd99b-be00-41",
       "section_number": "285",
       "section_title": "Negligent conduct with respect to fire or combustible matter:",
       "chapter": "XVI",
@@ -2198,7 +2198,7 @@
       "content_length": 649
     },
     {
-      "id": "69ff1511-1243-47",
+      "id": "24a2af38-f6b2-4b",
       "section_number": "286",
       "section_title": "Negligent conduct with respect to explosive substance:",
       "chapter": "XVI",
@@ -2206,7 +2206,7 @@
       "content_length": 605
     },
     {
-      "id": "47cb3564-d04d-41",
+      "id": "ed58ea3c-eda6-42",
       "section_number": "287",
       "section_title": "Negligent conduct with respect to machinery:",
       "chapter": "XVI",
@@ -2214,7 +2214,7 @@
       "content_length": 589
     },
     {
-      "id": "532b4667-d0e9-4b",
+      "id": "49f48d33-5107-42",
       "section_number": "288",
       "section_title": "Negligent conduct with respect to pu lling down or repairing buildings:",
       "chapter": "XVI",
@@ -2222,7 +2222,7 @@
       "content_length": 513
     },
     {
-      "id": "b9177ed7-cd26-46",
+      "id": "207858e3-da2d-4f",
       "section_number": "289",
       "section_title": "Negligent conduct with respect to animal:",
       "chapter": "XVI",
@@ -2230,7 +2230,7 @@
       "content_length": 458
     },
     {
-      "id": "6feccb1a-651a-44",
+      "id": "08c777c4-d7e5-44",
       "section_number": "290",
       "section_title": "Punishment for public nuisance in cases not otherwise provided for:",
       "chapter": "XVI",
@@ -2238,7 +2238,7 @@
       "content_length": 246
     },
     {
-      "id": "a0ae7fa6-eeeb-44",
+      "id": "4a9b8306-bd06-4a",
       "section_number": "291",
       "section_title": "Continuance of nuisance after injunction to discontinue:",
       "chapter": "XVI",
@@ -2246,7 +2246,7 @@
       "content_length": 368
     },
     {
-      "id": "d8c0d723-dd0b-4e",
+      "id": "9f3dc078-1de5-4a",
       "section_number": "292",
       "section_title": "Sale, etc., of obscene books, etc.:",
       "chapter": "XVI",
@@ -2254,7 +2254,7 @@
       "content_length": 1734
     },
     {
-      "id": "ef182c26-364f-45",
+      "id": "f7532702-b553-4c",
       "section_number": "293",
       "section_title": "Sale, etc., of obscene objects to young person:",
       "chapter": "XVI",
@@ -2262,7 +2262,7 @@
       "content_length": 408
     },
     {
-      "id": "96533326-f5d2-47",
+      "id": "4cba1643-b580-44",
       "section_number": "294",
       "section_title": "Obscene acts and songs:",
       "chapter": "XVI",
@@ -2270,7 +2270,7 @@
       "content_length": 1748
     },
     {
-      "id": "30aaa3d4-6996-4e",
+      "id": "92243368-dc00-4f",
       "section_number": "295",
       "section_title": "Injuring or defiling place of worship, with  Intent to insult the religion of any class:",
       "chapter": "XVI",
@@ -2278,7 +2278,7 @@
       "content_length": 1761
     },
     {
-      "id": "bb8ca58d-d58a-4b",
+      "id": "6c9856a1-4c86-4b",
       "section_number": "296",
       "section_title": "Disturbing religious assembly:",
       "chapter": "XVI",
@@ -2286,7 +2286,7 @@
       "content_length": 310
     },
     {
-      "id": "8a2d351d-177d-4f",
+      "id": "c921ee9b-0c24-46",
       "section_number": "297",
       "section_title": "Trespassing on burial places, etc.:",
       "chapter": "XVI",
@@ -2294,7 +2294,7 @@
       "content_length": 763
     },
     {
-      "id": "62c60564-443c-40",
+      "id": "12021f20-4734-49",
       "section_number": "298",
       "section_title": "Uttering words, etc., with deliberate  intent to wound religious feelings:",
       "chapter": "XVI",
@@ -2302,7 +2302,7 @@
       "content_length": 3288
     },
     {
-      "id": "c3e2220b-d51b-44",
+      "id": "402e3471-890e-44",
       "section_number": "299",
       "section_title": "Definitions:",
       "chapter": "XVI",
@@ -2310,7 +2310,7 @@
       "content_length": 1738
     },
     {
-      "id": "45fe89ea-0d1a-4a",
+      "id": "028ce9b6-2e14-49",
       "section_number": "300",
       "section_title": "Qatl-e-Amd:",
       "chapter": "XVI",
@@ -2318,7 +2318,7 @@
       "content_length": 387
     },
     {
-      "id": "48dc4dec-94f9-46",
+      "id": "76bde49d-0121-4e",
       "section_number": "301",
       "section_title": "Causing death of person other than the person whose death was intended:",
       "chapter": "XVI",
@@ -2326,7 +2326,7 @@
       "content_length": 346
     },
     {
-      "id": "f7be1cde-64fa-49",
+      "id": "25ac4704-44d2-40",
       "section_number": "302",
       "section_title": "Punishment of qatl-i-amd:",
       "chapter": "XVI",
@@ -2334,7 +2334,7 @@
       "content_length": 779
     },
     {
-      "id": "eb673094-d44d-44",
+      "id": "cc555b5b-374f-4b",
       "section_number": "303",
       "section_title": "Qatl committed under ikrah- i-tam or ikrah-i-naqis:",
       "chapter": "XVI",
@@ -2342,7 +2342,7 @@
       "content_length": 557
     },
     {
-      "id": "1ba80263-dcc4-42",
+      "id": "9100eebc-81c0-46",
       "section_number": "304",
       "section_title": "Proof of qatl-i-amd liable to qisas, etc.:",
       "chapter": "XVI",
@@ -2350,7 +2350,7 @@
       "content_length": 465
     },
     {
-      "id": "7550528e-736e-48",
+      "id": "5669409a-3405-41",
       "section_number": "305",
       "section_title": "Wali:",
       "chapter": "XVI",
@@ -2358,7 +2358,7 @@
       "content_length": 295
     },
     {
-      "id": "dea41927-2483-41",
+      "id": "cefc4d84-f4fd-40",
       "section_number": "306",
       "section_title": "Qatl-e-amd not liable to qisas:",
       "chapter": "XVI",
@@ -2366,7 +2366,7 @@
       "content_length": 558
     },
     {
-      "id": "16ac4825-3461-49",
+      "id": "8f96ae96-328e-42",
       "section_number": "307",
       "section_title": "Cases in which Qisas for qatl-i-amd shall not be enforced:",
       "chapter": "XVI",
@@ -2374,7 +2374,7 @@
       "content_length": 1541
     },
     {
-      "id": "e2d07f7c-28ae-4c",
+      "id": "4437ac58-6928-45",
       "section_number": "308",
       "section_title": "Punishment in qatl-i-amd not liable to qisas, etc.:",
       "chapter": "XVI",
@@ -2382,7 +2382,7 @@
       "content_length": 1437
     },
     {
-      "id": "4430823d-4ca3-4f",
+      "id": "885279ec-5b6c-4b",
       "section_number": "309",
       "section_title": "Waiver (Afw) of qisas in qatl-i-amd:",
       "chapter": "XVI",
@@ -2390,7 +2390,7 @@
       "content_length": 856
     },
     {
-      "id": "56173a64-50fc-40",
+      "id": "9f75512e-3951-4b",
       "section_number": "310",
       "section_title": "Compounding of qisas (Sulh) in qatl-i-amd:",
       "chapter": "XVI",
@@ -2398,7 +2398,7 @@
       "content_length": 1274
     },
     {
-      "id": "ede9ce53-415f-4c",
+      "id": "066e37b7-e33e-4f",
       "section_number": "310A",
       "section_title": "Punishment for giving a female in ma rriage or otherwise in badal-i-sulh:",
       "chapter": "XVI",
@@ -2406,7 +2406,7 @@
       "content_length": 276
     },
     {
-      "id": "a01ef3aa-e2a0-4f",
+      "id": "3c0eed83-9d8d-48",
       "section_number": "311",
       "section_title": "Ta'zir after waiver or compounding of right of qisas in qatl-i-amd:",
       "chapter": "XVI",
@@ -2414,7 +2414,7 @@
       "content_length": 1181
     },
     {
-      "id": "bd9df404-a0b0-44",
+      "id": "be470c62-748b-42",
       "section_number": "312",
       "section_title": "Qatl-i-amd after waiver or compounding of qisas:",
       "chapter": "XVI",
@@ -2422,7 +2422,7 @@
       "content_length": 462
     },
     {
-      "id": "0f9321f6-2454-4a",
+      "id": "ecd4ff05-d62f-4a",
       "section_number": "313",
       "section_title": "Right of qisas in qatl-i-amd:",
       "chapter": "XVI",
@@ -2430,7 +2430,7 @@
       "content_length": 707
     },
     {
-      "id": "c9885a29-ffdd-45",
+      "id": "ba1216a7-bf6a-4f",
       "section_number": "314",
       "section_title": "Execution of qisas in qatl-i-amd:",
       "chapter": "XVI",
@@ -2438,7 +2438,7 @@
       "content_length": 1158
     },
     {
-      "id": "296f4d24-f405-41",
+      "id": "fea7f354-674a-41",
       "section_number": "315",
       "section_title": "Qatl shibh-i-amd:",
       "chapter": "XVI",
@@ -2446,7 +2446,7 @@
       "content_length": 500
     },
     {
-      "id": "fdb1bed4-1c2e-4f",
+      "id": "a7cdb6b8-a615-4d",
       "section_number": "316",
       "section_title": "Punishment for Qatl shibh-i-amd:",
       "chapter": "XVI",
@@ -2454,7 +2454,7 @@
       "content_length": 247
     },
     {
-      "id": "f4a71108-5319-40",
+      "id": "14253f1d-1b10-43",
       "section_number": "317",
       "section_title": "Person committing qatl debarred from succession:",
       "chapter": "XVI",
@@ -2462,7 +2462,7 @@
       "content_length": 256
     },
     {
-      "id": "66c2ebfd-7ebd-46",
+      "id": "63149163-69b9-46",
       "section_number": "318",
       "section_title": "Qatl-i-khata:",
       "chapter": "XVI",
@@ -2470,7 +2470,7 @@
       "content_length": 442
     },
     {
-      "id": "dc702c0e-a116-4c",
+      "id": "c08123fe-dabc-4b",
       "section_number": "319",
       "section_title": "Punishment for qatl-i-khata:",
       "chapter": "XVI",
@@ -2478,7 +2478,7 @@
       "content_length": 365
     },
     {
-      "id": "06740b5f-86c2-45",
+      "id": "d6af9652-373a-4d",
       "section_number": "320",
       "section_title": "Punishment for qatl-i-khata by rash or negligent driving:",
       "chapter": "XVI",
@@ -2486,7 +2486,7 @@
       "content_length": 310
     },
     {
-      "id": "95ac6351-8433-4e",
+      "id": "850b8089-ed08-4e",
       "section_number": "321",
       "section_title": "Qatl-bis-sabab:",
       "chapter": "XVI",
@@ -2494,7 +2494,7 @@
       "content_length": 434
     },
     {
-      "id": "5b2bec47-4f3b-4b",
+      "id": "a3d97782-8fba-4a",
       "section_number": "322",
       "section_title": "Punishment for qatl-bis-sabab:",
       "chapter": "XVI",
@@ -2502,7 +2502,7 @@
       "content_length": 101
     },
     {
-      "id": "362e22c2-d2f5-4a",
+      "id": "94247100-9a4d-48",
       "section_number": "323",
       "section_title": "Value of diyat:",
       "chapter": "XVI",
@@ -2510,7 +2510,7 @@
       "content_length": 614
     },
     {
-      "id": "22392ebe-3a87-4f",
+      "id": "27186a0c-622d-44",
       "section_number": "324",
       "section_title": "Attempt to commit qatl-i-amd:",
       "chapter": "XVI",
@@ -2518,7 +2518,7 @@
       "content_length": 874
     },
     {
-      "id": "8ef3fbad-1598-40",
+      "id": "35e820a2-2b67-49",
       "section_number": "325",
       "section_title": "Attempt to commit suicide:",
       "chapter": "XVI",
@@ -2526,7 +2526,7 @@
       "content_length": 246
     },
     {
-      "id": "a2bf60bc-f057-4d",
+      "id": "78e1985d-2297-47",
       "section_number": "326",
       "section_title": "Thug:",
       "chapter": "XVI",
@@ -2534,7 +2534,7 @@
       "content_length": 195
     },
     {
-      "id": "a9a6e3b7-e4ad-49",
+      "id": "c3a4b55b-5698-41",
       "section_number": "327",
       "section_title": "Punishment:",
       "chapter": "XVI",
@@ -2542,7 +2542,7 @@
       "content_length": 124
     },
     {
-      "id": "62c0e8ff-f5df-49",
+      "id": "2e811cbb-debe-40",
       "section_number": "328",
       "section_title": "Exposure and abandonment of child under twel ve years by parent or person having",
       "chapter": "XVI",
@@ -2550,7 +2550,7 @@
       "content_length": 656
     },
     {
-      "id": "481ae7ca-bbb1-4e",
+      "id": "85d67f40-b5db-48",
       "section_number": "329",
       "section_title": "Concealment of birth by secret disposal of dead body:",
       "chapter": "XVI",
@@ -2558,7 +2558,7 @@
       "content_length": 401
     },
     {
-      "id": "dce3869e-f752-46",
+      "id": "f99ef4c3-7ac0-45",
       "section_number": "330",
       "section_title": "Disbursement of diyat:",
       "chapter": "XVI",
@@ -2566,7 +2566,7 @@
       "content_length": 258
     },
     {
-      "id": "df0cf872-d6e0-41",
+      "id": "5311e246-158a-40",
       "section_number": "331",
       "section_title": "Payment of Diyat:",
       "chapter": "XVI",
@@ -2574,7 +2574,7 @@
       "content_length": 1013
     },
     {
-      "id": "865f513a-c946-4e",
+      "id": "8c228b0e-ed54-48",
       "section_number": "333",
       "section_title": "Itlaf-i-udw:",
       "chapter": "XVI",
@@ -2582,7 +2582,7 @@
       "content_length": 143
     },
     {
-      "id": "8be9574c-12a4-46",
+      "id": "1c12de25-8bf6-48",
       "section_number": "334",
       "section_title": "Punishment for Itlaf-udw:",
       "chapter": "XVI",
@@ -2590,7 +2590,7 @@
       "content_length": 600
     },
     {
-      "id": "bae053f2-2b4e-47",
+      "id": "5a2b0095-2750-43",
       "section_number": "335",
       "section_title": "Itlaf-i-salahiyyat-i-udw:",
       "chapter": "XVI",
@@ -2598,7 +2598,7 @@
       "content_length": 237
     },
     {
-      "id": "94dac4f6-60a4-42",
+      "id": "f17fd27b-7196-40",
       "section_number": "336",
       "section_title": "Punishment for itlaf-i-salahiyyat-i-udw:",
       "chapter": "XVI",
@@ -2606,7 +2606,7 @@
       "content_length": 613
     },
     {
-      "id": "b0f9f3b9-57fc-49",
+      "id": "d8a91c1b-ca9f-4b",
       "section_number": "337",
       "section_title": "Shajjah:",
       "chapter": "XVI",
@@ -2614,7 +2614,7 @@
       "content_length": 18668
     },
     {
-      "id": "bb4d3c58-37da-45",
+      "id": "58ccd4cf-bbf4-4d",
       "section_number": "338",
       "section_title": "Isqat-i-Hamal:",
       "chapter": "XVI",
@@ -2622,7 +2622,7 @@
       "content_length": 4391
     },
     {
-      "id": "4bd6f15e-2455-41",
+      "id": "10432c89-d2fb-4c",
       "section_number": "339",
       "section_title": "Wrongful restraint:",
       "chapter": "XVI",
@@ -2630,7 +2630,7 @@
       "content_length": 630
     },
     {
-      "id": "e92bc360-3c6b-46",
+      "id": "7327196f-583c-42",
       "section_number": "340",
       "section_title": "Wrongful confinement:",
       "chapter": "XVI",
@@ -2638,7 +2638,7 @@
       "content_length": 574
     },
     {
-      "id": "e8e4aae8-6a03-4d",
+      "id": "3d1dfc4d-5b7e-45",
       "section_number": "341",
       "section_title": "Punishment for wrongful restraint:",
       "chapter": "XVI",
@@ -2646,7 +2646,7 @@
       "content_length": 267
     },
     {
-      "id": "34124dca-ab77-41",
+      "id": "120cde37-d24a-4a",
       "section_number": "342",
       "section_title": "Punishment for wrongful confinement:",
       "chapter": "XVI",
@@ -2654,7 +2654,7 @@
       "content_length": 269
     },
     {
-      "id": "4bd91cc3-0170-4b",
+      "id": "7f3b33bf-5f62-4a",
       "section_number": "343",
       "section_title": "Wrongful confinement fo r three or more days:",
       "chapter": "XVI",
@@ -2662,7 +2662,7 @@
       "content_length": 253
     },
     {
-      "id": "ead9935b-8356-48",
+      "id": "224ddc01-2110-44",
       "section_number": "344",
       "section_title": "Wrongful confinement for ten or more days:",
       "chapter": "XVI",
@@ -2670,7 +2670,7 @@
       "content_length": 256
     },
     {
-      "id": "2a725ebf-c426-4d",
+      "id": "8b4a8d2f-0f94-46",
       "section_number": "345",
       "section_title": "Wrongful confinement of person for wh ose liberation writ has been issued:",
       "chapter": "XVI",
@@ -2678,7 +2678,7 @@
       "content_length": 423
     },
     {
-      "id": "d12813db-cf39-4f",
+      "id": "4f8cbbe5-982a-42",
       "section_number": "346",
       "section_title": "Wrongful confinement in secret:",
       "chapter": "XVI",
@@ -2686,7 +2686,7 @@
       "content_length": 590
     },
     {
-      "id": "e223e2aa-f181-4f",
+      "id": "a4d7d35a-ef9d-4e",
       "section_number": "347",
       "section_title": "Wrongful confinement to extort pr operty or constrain to illegal act:",
       "chapter": "XVI",
@@ -2694,7 +2694,7 @@
       "content_length": 585
     },
     {
-      "id": "9f7d00a0-b8dc-4f",
+      "id": "dfd957aa-1767-45",
       "section_number": "348",
       "section_title": "Wrongful confinement to extort confessi on or compel restoration of property:",
       "chapter": "XVI",
@@ -2702,7 +2702,7 @@
       "content_length": 809
     },
     {
-      "id": "f271a336-70d7-42",
+      "id": "7409788e-4c86-49",
       "section_number": "349",
       "section_title": "Force:",
       "chapter": "XVI",
@@ -2710,7 +2710,7 @@
       "content_length": 955
     },
     {
-      "id": "fcace4be-1af7-40",
+      "id": "44eb7675-6cac-47",
       "section_number": "350",
       "section_title": "Criminal force:",
       "chapter": "XVI",
@@ -2718,7 +2718,7 @@
       "content_length": 3525
     },
     {
-      "id": "fe84b97d-4ab0-4e",
+      "id": "1846326d-48d8-4a",
       "section_number": "351",
       "section_title": "Assault:",
       "chapter": "XVI",
@@ -2726,7 +2726,7 @@
       "content_length": 1209
     },
     {
-      "id": "2e37b34b-8ebb-49",
+      "id": "1ba1526c-051c-48",
       "section_number": "352",
       "section_title": "Punishment for assault or  criminal force otherwise than on grave provocation:",
       "chapter": "XVI",
@@ -2734,7 +2734,7 @@
       "content_length": 986
     },
     {
-      "id": "4aa4b78c-3c7c-49",
+      "id": "90e09491-278b-40",
       "section_number": "353",
       "section_title": "Assault or criminal force to deter pub lic servant from discharge of his duty:",
       "chapter": "XVI",
@@ -2742,7 +2742,7 @@
       "content_length": 586
     },
     {
-      "id": "65d7aaed-04ab-45",
+      "id": "55fae26c-cbd8-47",
       "section_number": "354",
       "section_title": "Assault or criminal force to woman with intent to outrage her modesty:",
       "chapter": "XVI",
@@ -2750,7 +2750,7 @@
       "content_length": 692
     },
     {
-      "id": "3658f742-18f0-43",
+      "id": "a14675ca-95a6-46",
       "section_number": "355",
       "section_title": "Assault or criminal force with intent to dishonour person, otherwise than on grave",
       "chapter": "XVI",
@@ -2758,7 +2758,7 @@
       "content_length": 406
     },
     {
-      "id": "6cf4a305-c0ed-40",
+      "id": "f9a5292b-61c7-41",
       "section_number": "356",
       "section_title": "Assault or criminal force in attempt to co mmit theft of property carried by a person:",
       "chapter": "XVI",
@@ -2766,7 +2766,7 @@
       "content_length": 375
     },
     {
-      "id": "7b3890da-1ad9-49",
+      "id": "f5721995-d87d-4e",
       "section_number": "357",
       "section_title": "Assault or criminal force in attemp ting wrongfully to confine person:",
       "chapter": "XVI",
@@ -2774,7 +2774,7 @@
       "content_length": 366
     },
     {
-      "id": "e8b7be06-2a01-4d",
+      "id": "0ddbd807-e1cd-45",
       "section_number": "358",
       "section_title": "Assault or criminal force on grave provocation:",
       "chapter": "XVI",
@@ -2782,7 +2782,7 @@
       "content_length": 468
     },
     {
-      "id": "de6a8e73-cfdc-4d",
+      "id": "a0e1ba54-ce8f-46",
       "section_number": "359",
       "section_title": "Kidnapping:",
       "chapter": "XVI",
@@ -2790,7 +2790,7 @@
       "content_length": 120
     },
     {
-      "id": "8f8f95e7-ce4d-4d",
+      "id": "c7803860-f92e-47",
       "section_number": "360",
       "section_title": "Kidnapping from Pakistan, etc.:",
       "chapter": "XVI",
@@ -2798,7 +2798,7 @@
       "content_length": 257
     },
     {
-      "id": "a71368a0-2a81-49",
+      "id": "a6d14942-f069-44",
       "section_number": "361",
       "section_title": "Kidnapping from lawful guardianship:",
       "chapter": "XVI",
@@ -2806,7 +2806,7 @@
       "content_length": 836
     },
     {
-      "id": "00604003-59df-49",
+      "id": "68eca475-9026-45",
       "section_number": "362",
       "section_title": "Abduction:",
       "chapter": "XVI",
@@ -2814,7 +2814,7 @@
       "content_length": 150
     },
     {
-      "id": "b8a6f59f-46f3-45",
+      "id": "ddd01617-1bd6-46",
       "section_number": "363",
       "section_title": "Punishment for kidnapping:",
       "chapter": "XVI",
@@ -2822,7 +2822,7 @@
       "content_length": 246
     },
     {
-      "id": "60b7d241-cde8-47",
+      "id": "ed3c7cb8-8a72-42",
       "section_number": "364",
       "section_title": "Kidnapping or abducting in order to murder:",
       "chapter": "XVI",
@@ -2830,7 +2830,7 @@
       "content_length": 1250
     },
     {
-      "id": "44988d43-362a-49",
+      "id": "fca6bb4b-4ae7-40",
       "section_number": "365",
       "section_title": "Kidnapping or abducting with intent secre tly and wrongfully to confine person:",
       "chapter": "XVI",
@@ -2838,7 +2838,7 @@
       "content_length": 936
     },
     {
-      "id": "73353766-4df5-47",
+      "id": "40554943-d6d7-4d",
       "section_number": "365B",
       "section_title": "Kidnapping, abducting or inducing wo man to compel fo r marriage etc.-",
       "chapter": "XVI",
@@ -2846,7 +2846,7 @@
       "content_length": 1695
     },
     {
-      "id": "7231b54f-5c6c-48",
+      "id": "20a48f6b-d257-46",
       "section_number": "367",
       "section_title": "Kidnapping or abducting in order to subject  person to grievous hurt, slavery, etc.:",
       "chapter": "XVI",
@@ -2854,7 +2854,7 @@
       "content_length": 998
     },
     {
-      "id": "10eb4b61-a655-45",
+      "id": "afd3fdc4-629b-4b",
       "section_number": "368",
       "section_title": "Wrongfully concealing or keeping in conf inement, kidnapped or abducted person:",
       "chapter": "XVI",
@@ -2862,7 +2862,7 @@
       "content_length": 435
     },
     {
-      "id": "134e94c6-9d1d-48",
+      "id": "a0b10cae-5d0f-4f",
       "section_number": "369",
       "section_title": "Kidnapping or abducting child under ten years with intent to steal from its person:",
       "chapter": "XVI",
@@ -2870,7 +2870,7 @@
       "content_length": 392
     },
     {
-      "id": "8b16a99c-f101-47",
+      "id": "0a484e16-1f17-4d",
       "section_number": "370",
       "section_title": "Buying or disposing of any person as a slave:",
       "chapter": "XVI",
@@ -2878,7 +2878,7 @@
       "content_length": 353
     },
     {
-      "id": "33b9e4ef-514c-4d",
+      "id": "f57c24e4-21b1-40",
       "section_number": "371",
       "section_title": "Habitual dealing in slaves:",
       "chapter": "XVI",
@@ -2886,7 +2886,7 @@
       "content_length": 1293
     },
     {
-      "id": "bcc5f6e7-918e-44",
+      "id": "c667b9d6-9710-4a",
       "section_number": "371B",
       "section_title": "Buying person for purposes of prostitution, etc",
       "chapter": "XVI",
@@ -2894,7 +2894,7 @@
       "content_length": 842
     },
     {
-      "id": "37aa2983-e14b-44",
+      "id": "a0265c09-cb35-43",
       "section_number": "374",
       "section_title": "Unlawful compulsory labour:",
       "chapter": "XVI",
@@ -2902,7 +2902,7 @@
       "content_length": 925
     },
     {
-      "id": "11b07979-b58d-4d",
+      "id": "c35f7792-b3a6-46",
       "section_number": "375",
       "section_title": "Rape:-",
       "chapter": "XVI",
@@ -2910,7 +2910,7 @@
       "content_length": 712
     },
     {
-      "id": "65a62d54-0b70-47",
+      "id": "5e3d0cb5-0c2a-44",
       "section_number": "376",
       "section_title": "Punishment for rape",
       "chapter": "XVI",
@@ -2918,7 +2918,7 @@
       "content_length": 423
     },
     {
-      "id": "88952605-f397-49",
+      "id": "cff4f6ad-6c65-4c",
       "section_number": "377",
       "section_title": "Unnatural offences:",
       "chapter": "XVII",
@@ -2926,7 +2926,7 @@
       "content_length": 506
     },
     {
-      "id": "d6118791-c56c-43",
+      "id": "8118ec5e-5446-4f",
       "section_number": "378",
       "section_title": "Theft:",
       "chapter": "XVII",
@@ -2934,7 +2934,7 @@
       "content_length": 5309
     },
     {
-      "id": "9f68ee28-3f58-48",
+      "id": "a0524325-9228-47",
       "section_number": "379",
       "section_title": "Punishment for theft:",
       "chapter": "XVII",
@@ -2942,7 +2942,7 @@
       "content_length": 188
     },
     {
-      "id": "bf7c02d1-b347-4c",
+      "id": "5f3ce17c-c339-4b",
       "section_number": "380",
       "section_title": "Theft in dwelling house, etc.:",
       "chapter": "XVII",
@@ -2950,7 +2950,7 @@
       "content_length": 335
     },
     {
-      "id": "b84ec4a6-9492-4e",
+      "id": "ce2a0315-e334-41",
       "section_number": "381",
       "section_title": "Theft by clerk or servant or property in possession of master:",
       "chapter": "XVII",
@@ -2958,7 +2958,7 @@
       "content_length": 859
     },
     {
-      "id": "d1722ba4-b735-45",
+      "id": "eadb91f0-eca4-43",
       "section_number": "382",
       "section_title": "Theft after preparation made for causing de ath, hurt or restraint in order to the",
       "chapter": "XVII",
@@ -2966,7 +2966,7 @@
       "content_length": 1129
     },
     {
-      "id": "9c762bd8-a669-40",
+      "id": "88b098a7-3f00-40",
       "section_number": "383",
       "section_title": "Extortion:",
       "chapter": "XVII",
@@ -2974,7 +2974,7 @@
       "content_length": 1232
     },
     {
-      "id": "c016ec26-eaa8-46",
+      "id": "ee22c6b4-0423-4a",
       "section_number": "384",
       "section_title": "Punishment for extortion:",
       "chapter": "XVII",
@@ -2982,7 +2982,7 @@
       "content_length": 198
     },
     {
-      "id": "15786138-da2e-42",
+      "id": "75ac242c-fa7c-45",
       "section_number": "385",
       "section_title": "Putting person in fear of inju ry in order to commit extortion:",
       "chapter": "XVII",
@@ -2990,7 +2990,7 @@
       "content_length": 337
     },
     {
-      "id": "7ca049a0-a409-46",
+      "id": "104bda69-a062-42",
       "section_number": "386",
       "section_title": "Extortion by putting a person in  fear of death or grievous hurt:",
       "chapter": "XVII",
@@ -2998,7 +2998,7 @@
       "content_length": 328
     },
     {
-      "id": "5a25a8ba-60f0-4b",
+      "id": "be510e6a-7d36-41",
       "section_number": "387",
       "section_title": "Putting person in fear of death or of grievous hurt, in  order to commit extortion:",
       "chapter": "XVII",
@@ -3006,7 +3006,7 @@
       "content_length": 391
     },
     {
-      "id": "5bb5bdbc-af05-44",
+      "id": "f21e55da-8e66-4c",
       "section_number": "388",
       "section_title": "Extortion b y threat of accusation of an offence punishable with death or imprisonment",
       "chapter": "XVII",
@@ -3014,7 +3014,7 @@
       "content_length": 715
     },
     {
-      "id": "f33a2bf4-159a-47",
+      "id": "eddb83d7-3997-42",
       "section_number": "389",
       "section_title": "Putting person in fear of accusation of  offence, in order to commit extortion:",
       "chapter": "XVII",
@@ -3022,7 +3022,7 @@
       "content_length": 683
     },
     {
-      "id": "eb801ed6-3224-47",
+      "id": "77173f4a-e90a-42",
       "section_number": "390",
       "section_title": "Robbery:",
       "chapter": "XVII",
@@ -3030,7 +3030,7 @@
       "content_length": 2258
     },
     {
-      "id": "423a5698-fa0b-46",
+      "id": "a6f2b236-3e67-4b",
       "section_number": "391",
       "section_title": "Dacoity:",
       "chapter": "XVII",
@@ -3038,7 +3038,7 @@
       "content_length": 353
     },
     {
-      "id": "0ec723d4-e038-45",
+      "id": "42488f70-d59c-49",
       "section_number": "392",
       "section_title": "Punishment for robbery:",
       "chapter": "XVII",
@@ -3046,7 +3046,7 @@
       "content_length": 339
     },
     {
-      "id": "687d3a60-5c18-41",
+      "id": "338cb2b5-3c33-46",
       "section_number": "393",
       "section_title": "Attempt to commit robbery:",
       "chapter": "XVII",
@@ -3054,7 +3054,7 @@
       "content_length": 195
     },
     {
-      "id": "c541e891-6710-46",
+      "id": "bdfc7c61-abdb-40",
       "section_number": "394",
       "section_title": "Voluntarily causing hurt in committing robbery:",
       "chapter": "XVII",
@@ -3062,7 +3062,7 @@
       "content_length": 455
     },
     {
-      "id": "c620fa6a-c52b-45",
+      "id": "98f04a62-beab-4c",
       "section_number": "395",
       "section_title": "Punishment for dacoity:",
       "chapter": "XVII",
@@ -3070,7 +3070,7 @@
       "content_length": 248
     },
     {
-      "id": "ef42b10c-5bc3-44",
+      "id": "cfb840b8-4eff-4f",
       "section_number": "396",
       "section_title": "Dacoity with murder:",
       "chapter": "XVII",
@@ -3078,7 +3078,7 @@
       "content_length": 379
     },
     {
-      "id": "2b4d46b7-d743-49",
+      "id": "d0590464-3096-4e",
       "section_number": "397",
       "section_title": "Robbery or dacoity, with attempt to cause death or grievous hurt:",
       "chapter": "XVII",
@@ -3086,7 +3086,7 @@
       "content_length": 362
     },
     {
-      "id": "e5469115-e126-43",
+      "id": "ba56a21e-fdd7-44",
       "section_number": "398",
       "section_title": "Attempt to commit robbery or dacoit y when armed with deadly weapon:",
       "chapter": "XVII",
@@ -3094,7 +3094,7 @@
       "content_length": 286
     },
     {
-      "id": "17e72334-24b8-42",
+      "id": "157c6ca1-fd40-4a",
       "section_number": "399",
       "section_title": "Making preparation to commit dacoity:",
       "chapter": "XVII",
@@ -3102,7 +3102,7 @@
       "content_length": 227
     },
     {
-      "id": "d5020b4e-e8bd-41",
+      "id": "53fa2051-5bd8-42",
       "section_number": "400",
       "section_title": "Punishment for belonging to gang of dacoits:",
       "chapter": "XVII",
@@ -3110,7 +3110,7 @@
       "content_length": 359
     },
     {
-      "id": "916312af-694a-44",
+      "id": "e2df75ac-e064-4f",
       "section_number": "401",
       "section_title": "Punishment for belonging to gang of thieves:",
       "chapter": "XVII",
@@ -3118,7 +3118,7 @@
       "content_length": 396
     },
     {
-      "id": "0e14c236-a030-4b",
+      "id": "8733183d-4d2d-43",
       "section_number": "402",
       "section_title": "Assembling for purpose of committing dacoity:",
       "chapter": "XVII",
@@ -3126,7 +3126,7 @@
       "content_length": 1226
     },
     {
-      "id": "042ad0da-9715-41",
+      "id": "9864df38-b4ed-40",
       "section_number": "403",
       "section_title": "Dishonest misappropriation of property:",
       "chapter": "XVII",
@@ -3134,7 +3134,7 @@
       "content_length": 3635
     },
     {
-      "id": "09cf0ae5-ebd4-46",
+      "id": "7603a2ea-5ab7-41",
       "section_number": "404",
       "section_title": "Dishonest misappropriation of property posse ssed by deceased person at the time of",
       "chapter": "XVII",
@@ -3142,7 +3142,7 @@
       "content_length": 940
     },
     {
-      "id": "4ac922c4-679a-46",
+      "id": "51703695-1585-40",
       "section_number": "405",
       "section_title": "Criminal breach of trust:",
       "chapter": "XVII",
@@ -3150,7 +3150,7 @@
       "content_length": 2396
     },
     {
-      "id": "64063677-003f-44",
+      "id": "f34e2d31-56ad-49",
       "section_number": "406",
       "section_title": "Punishment for criminal breach of trust:",
       "chapter": "XVII",
@@ -3158,7 +3158,7 @@
       "content_length": 237
     },
     {
-      "id": "3f3f44d9-770a-48",
+      "id": "5e28fe0c-0254-44",
       "section_number": "407",
       "section_title": "Criminal breach of trust by carrier, etc.:",
       "chapter": "XVII",
@@ -3166,7 +3166,7 @@
       "content_length": 341
     },
     {
-      "id": "cb69c434-92ac-40",
+      "id": "5322a066-1666-4f",
       "section_number": "408",
       "section_title": "Criminal breach of trust by clerk or servant:",
       "chapter": "XVII",
@@ -3174,7 +3174,7 @@
       "content_length": 433
     },
     {
-      "id": "7520f1e7-9457-47",
+      "id": "99a56fd6-6100-40",
       "section_number": "409",
       "section_title": "Criminal breach of trust by public ser vant, or by banker, merchant or agent:",
       "chapter": "XVII",
@@ -3182,7 +3182,7 @@
       "content_length": 566
     },
     {
-      "id": "4aa49752-4ed0-40",
+      "id": "6c93c378-3aaf-41",
       "section_number": "410",
       "section_title": "Stolen property:",
       "chapter": "XVII",
@@ -3190,7 +3190,7 @@
       "content_length": 570
     },
     {
-      "id": "47741db0-b445-4e",
+      "id": "2a9dce1f-b051-4e",
       "section_number": "411",
       "section_title": "Dishonestly receiving stolen property:",
       "chapter": "XVII",
@@ -3198,7 +3198,7 @@
       "content_length": 314
     },
     {
-      "id": "cccc3f08-931b-42",
+      "id": "f7a449d3-4692-43",
       "section_number": "412",
       "section_title": "Dishonestly receiving stolen property in the commission of a dacoity:",
       "chapter": "XVII",
@@ -3206,7 +3206,7 @@
       "content_length": 608
     },
     {
-      "id": "652444b3-d3c9-47",
+      "id": "f0817a9f-b442-49",
       "section_number": "413",
       "section_title": "Habitually dealing in stolen property:",
       "chapter": "XVII",
@@ -3214,7 +3214,7 @@
       "content_length": 332
     },
     {
-      "id": "e6266fe4-9dac-4b",
+      "id": "9dd11c1e-8da7-4c",
       "section_number": "414",
       "section_title": "Assisting in concealmen t of stolen property:",
       "chapter": "XVII",
@@ -3222,7 +3222,7 @@
       "content_length": 354
     },
     {
-      "id": "833334e5-1f6d-44",
+      "id": "885e8d9b-101f-4d",
       "section_number": "415",
       "section_title": "Cheating:",
       "chapter": "XVII",
@@ -3230,7 +3230,7 @@
       "content_length": 2849
     },
     {
-      "id": "37d01126-20c4-44",
+      "id": "2c646a27-4771-43",
       "section_number": "416",
       "section_title": "Cheating by personation:",
       "chapter": "XVII",
@@ -3238,7 +3238,7 @@
       "content_length": 594
     },
     {
-      "id": "fe86c90c-66d4-44",
+      "id": "fe51a5be-9a84-41",
       "section_number": "417",
       "section_title": "Punishment for cheating:",
       "chapter": "XVII",
@@ -3246,7 +3246,7 @@
       "content_length": 183
     },
     {
-      "id": "4a1e4a42-9506-41",
+      "id": "d79a3942-986d-46",
       "section_number": "418",
       "section_title": "Cheating with knowledge that wrongful loss may ensue to person whose interest",
       "chapter": "XVII",
@@ -3254,7 +3254,7 @@
       "content_length": 473
     },
     {
-      "id": "64a25f72-9780-4e",
+      "id": "307efe76-95e5-4d",
       "section_number": "419",
       "section_title": "Punishment for cheating by personation:",
       "chapter": "XVII",
@@ -3262,7 +3262,7 @@
       "content_length": 216
     },
     {
-      "id": "d7d90237-9b0b-4d",
+      "id": "883e7427-8fb0-40",
       "section_number": "420",
       "section_title": "Cheating and dishonestly Inducing delivery of property:",
       "chapter": "XVII",
@@ -3270,7 +3270,7 @@
       "content_length": 549
     },
     {
-      "id": "56fe0158-f9bc-4d",
+      "id": "14062913-88e4-45",
       "section_number": "421",
       "section_title": "Dishonest or fraudulent removal or concealm ent of property to prevent distribution",
       "chapter": "XVII",
@@ -3278,7 +3278,7 @@
       "content_length": 627
     },
     {
-      "id": "9c65443a-96df-48",
+      "id": "9f5b3002-4710-4e",
       "section_number": "422",
       "section_title": "Dishonestly or fraudulently preventing  debt being available for creditors:",
       "chapter": "XVII",
@@ -3286,7 +3286,7 @@
       "content_length": 423
     },
     {
-      "id": "e39bcb17-94de-48",
+      "id": "6f715159-ecf0-4c",
       "section_number": "423",
       "section_title": "Dishonest or fraudulent execution of deed of transfer containing  false statement of",
       "chapter": "XVII",
@@ -3294,7 +3294,7 @@
       "content_length": 633
     },
     {
-      "id": "a711d4e2-5f5a-42",
+      "id": "bd5b1070-9bfc-42",
       "section_number": "424",
       "section_title": "Dishonest or fraudulent removal or concealment of property:",
       "chapter": "XVII",
@@ -3302,7 +3302,7 @@
       "content_length": 464
     },
     {
-      "id": "da8ac51d-ecec-42",
+      "id": "243d428f-309c-4c",
       "section_number": "425",
       "section_title": "Mischief:",
       "chapter": "XVII",
@@ -3310,7 +3310,7 @@
       "content_length": 2189
     },
     {
-      "id": "e36cd2bd-efa3-47",
+      "id": "57db850f-e011-4f",
       "section_number": "426",
       "section_title": "Punishment for mischief:",
       "chapter": "XVII",
@@ -3318,7 +3318,7 @@
       "content_length": 196
     },
     {
-      "id": "766d313a-4605-46",
+      "id": "71a49249-a41f-42",
       "section_number": "427",
       "section_title": "Mischief causing damage to the amount of fifty rupees:",
       "chapter": "XVII",
@@ -3326,7 +3326,7 @@
       "content_length": 298
     },
     {
-      "id": "f2b05819-9d37-47",
+      "id": "918c512f-c241-43",
       "section_number": "428",
       "section_title": "Mischief by killing or  maiming animal of the value of ten rupees:",
       "chapter": "XVII",
@@ -3334,7 +3334,7 @@
       "content_length": 336
     },
     {
-      "id": "4c8ae678-c092-44",
+      "id": "dc57b948-dac9-4b",
       "section_number": "429",
       "section_title": "Mischief by killing or maimin g cattle, etc., of any value or  any animal of the value of",
       "chapter": "XVII",
@@ -3342,7 +3342,7 @@
       "content_length": 468
     },
     {
-      "id": "d78de27d-541e-4f",
+      "id": "2cf3512d-7841-44",
       "section_number": "430",
       "section_title": "Mischief by injury to works of irrigat ion or by wrongfully diverting water:",
       "chapter": "XVII",
@@ -3350,7 +3350,7 @@
       "content_length": 511
     },
     {
-      "id": "2869a8ad-94e7-40",
+      "id": "d0d91335-60d3-48",
       "section_number": "431",
       "section_title": "Mischief by injury to public road, bridge, river or channel:",
       "chapter": "XVII",
@@ -3358,7 +3358,7 @@
       "content_length": 450
     },
     {
-      "id": "fc70f9a6-79e1-46",
+      "id": "a9a7d698-c797-4f",
       "section_number": "432",
       "section_title": "Mischief by causing inundation or obstru ction to public drainage attended with",
       "chapter": "XVII",
@@ -3366,7 +3366,7 @@
       "content_length": 415
     },
     {
-      "id": "c032e59b-729d-44",
+      "id": "4cc3902e-aa07-40",
       "section_number": "433",
       "section_title": "Mischief by destroying, movi ng or rendering less useful  a light-house or seamark:",
       "chapter": "XVII",
@@ -3374,7 +3374,7 @@
       "content_length": 545
     },
     {
-      "id": "9294233e-f440-42",
+      "id": "6963ca7c-a170-43",
       "section_number": "434",
       "section_title": "Mischief by destroying or  moving, etc., a landmark fixed by public authority:",
       "chapter": "XVII",
@@ -3382,7 +3382,7 @@
       "content_length": 390
     },
     {
-      "id": "f83f4ae6-381b-48",
+      "id": "231a9bf8-1df0-4c",
       "section_number": "435",
       "section_title": "Mischief by fire or explosive substance with intent to cause damage to amount of one",
       "chapter": "XVII",
@@ -3390,7 +3390,7 @@
       "content_length": 630
     },
     {
-      "id": "44d6bc3f-8402-45",
+      "id": "f1d0dfb4-8c19-47",
       "section_number": "436",
       "section_title": "Mischief by fire or explosive substance with intent to destroy house, etc.:",
       "chapter": "XVII",
@@ -3398,7 +3398,7 @@
       "content_length": 583
     },
     {
-      "id": "29038e56-7a5b-48",
+      "id": "de02e0f8-d9e4-4e",
       "section_number": "437",
       "section_title": "Mischief with intent to dest roy or make unsafe a decked vessel or one of twenty tons",
       "chapter": "XVII",
@@ -3406,7 +3406,7 @@
       "content_length": 470
     },
     {
-      "id": "a9054a7a-153f-45",
+      "id": "2117c4ad-8cea-47",
       "section_number": "438",
       "section_title": "Punishment for the mischief described in Section 437 committed by fire or explosive",
       "chapter": "XVII",
@@ -3414,7 +3414,7 @@
       "content_length": 412
     },
     {
-      "id": "dedc6dc0-ad7b-4b",
+      "id": "2fcc872c-52a7-42",
       "section_number": "439",
       "section_title": "Punishment for intentionally running vesse l aground or ashore with intent to commit",
       "chapter": "XVII",
@@ -3422,7 +3422,7 @@
       "content_length": 498
     },
     {
-      "id": "c48c200c-5dad-46",
+      "id": "7e941f0b-1d3e-46",
       "section_number": "440",
       "section_title": "Mischief committed after preparatio n made for causing death or hurt:",
       "chapter": "XVII",
@@ -3430,7 +3430,7 @@
       "content_length": 414
     },
     {
-      "id": "0f99dfcf-b134-46",
+      "id": "9883ebc3-a82e-48",
       "section_number": "441",
       "section_title": "Criminal trespass:",
       "chapter": "XVII",
@@ -3438,7 +3438,7 @@
       "content_length": 436
     },
     {
-      "id": "3ab8d6b8-2818-43",
+      "id": "9fbf2862-5cdb-43",
       "section_number": "442",
       "section_title": "House-trespass:",
       "chapter": "XVII",
@@ -3446,7 +3446,7 @@
       "content_length": 406
     },
     {
-      "id": "0edf97b5-8a9f-41",
+      "id": "b0a5cacc-8dba-4e",
       "section_number": "443",
       "section_title": "Lurking house-trespass:",
       "chapter": "XVII",
@@ -3454,7 +3454,7 @@
       "content_length": 310
     },
     {
-      "id": "3df7d8f8-029e-40",
+      "id": "a2553149-cc76-4c",
       "section_number": "444",
       "section_title": "Lurking house-trespass by night:",
       "chapter": "XVII",
@@ -3462,7 +3462,7 @@
       "content_length": 172
     },
     {
-      "id": "c6638e97-d443-43",
+      "id": "fda5b889-ac2e-41",
       "section_number": "445",
       "section_title": "House-breaking:",
       "chapter": "XVII",
@@ -3470,7 +3470,7 @@
       "content_length": 2963
     },
     {
-      "id": "903d2370-c133-4d",
+      "id": "8491a130-10f4-4b",
       "section_number": "446",
       "section_title": "House-breaking by night:",
       "chapter": "XVII",
@@ -3478,7 +3478,7 @@
       "content_length": 149
     },
     {
-      "id": "fb255e6b-1562-42",
+      "id": "d8ccf105-ff4f-46",
       "section_number": "447",
       "section_title": "Punishment for criminal trespass:",
       "chapter": "XVII",
@@ -3486,7 +3486,7 @@
       "content_length": 276
     },
     {
-      "id": "7ecad8ce-8a5b-47",
+      "id": "4cdb9805-3f9c-42",
       "section_number": "448",
       "section_title": "Punishment for house-trespass:",
       "chapter": "XVII",
@@ -3494,7 +3494,7 @@
       "content_length": 256
     },
     {
-      "id": "8ccab689-8e09-45",
+      "id": "1f85576a-a64f-4e",
       "section_number": "449",
       "section_title": "House-trespass in order to commit  offence punishable with death:",
       "chapter": "XVII",
@@ -3502,7 +3502,7 @@
       "content_length": 323
     },
     {
-      "id": "ccb27ffa-2416-41",
+      "id": "81fc210e-2ce0-4f",
       "section_number": "450",
       "section_title": "House-trespass In order to commit offence punishable with  imprisonment for life:",
       "chapter": "XVII",
@@ -3510,7 +3510,7 @@
       "content_length": 336
     },
     {
-      "id": "f7c0c2c6-1d93-43",
+      "id": "68a14913-f535-4f",
       "section_number": "451",
       "section_title": "House-trespass in order to commit o ffence punishable with imprisonment:",
       "chapter": "XVII",
@@ -3518,7 +3518,7 @@
       "content_length": 441
     },
     {
-      "id": "afda6415-12a0-44",
+      "id": "57d5ca3f-f2fa-4e",
       "section_number": "452",
       "section_title": "House-trespass after preparation for hur t, assault or wrongful restraint:",
       "chapter": "XVII",
@@ -3526,7 +3526,7 @@
       "content_length": 469
     },
     {
-      "id": "b6201c56-0dea-4b",
+      "id": "4a60c1e7-16b9-48",
       "section_number": "453",
       "section_title": "Punishment for lurking house -trespass or house-breaking:",
       "chapter": "XVII",
@@ -3534,7 +3534,7 @@
       "content_length": 264
     },
     {
-      "id": "551a10fd-f549-4e",
+      "id": "4662a43b-ae5b-4c",
       "section_number": "454",
       "section_title": "Lurking house-trespass or house-breaking in order to commit offence punishable with",
       "chapter": "XVII",
@@ -3542,7 +3542,7 @@
       "content_length": 492
     },
     {
-      "id": "7f22caba-c26c-4b",
+      "id": "dedacfe6-3a3b-4f",
       "section_number": "455",
       "section_title": "Lurking house-trespass or house-breaking  after preparation for hurt, assault or",
       "chapter": "XVII",
@@ -3550,7 +3550,7 @@
       "content_length": 523
     },
     {
-      "id": "d96850e1-bc77-46",
+      "id": "9687899a-1909-43",
       "section_number": "456",
       "section_title": "Punishment for lurking house-tres pass or house-breaking by night:",
       "chapter": "XVII",
@@ -3558,7 +3558,7 @@
       "content_length": 295
     },
     {
-      "id": "a7b94364-f6f8-4b",
+      "id": "59dd72a2-ea24-45",
       "section_number": "457",
       "section_title": "Lurking house-trespass or house-breaking  by night in order to commit offence",
       "chapter": "XVII",
@@ -3566,7 +3566,7 @@
       "content_length": 526
     },
     {
-      "id": "a6f137f0-9581-4c",
+      "id": "b79431a1-461d-46",
       "section_number": "458",
       "section_title": "Lurking house-trespass or house-breaking by  night after preparation for hurt, assault",
       "chapter": "XVII",
@@ -3574,7 +3574,7 @@
       "content_length": 554
     },
     {
-      "id": "5f6bd6df-dd80-47",
+      "id": "76ea75ed-7a39-46",
       "section_number": "457",
       "section_title": "Lurking house-trespass or house-breaking  by night in order to commit offence",
       "chapter": "XVII",
@@ -3582,7 +3582,7 @@
       "content_length": 526
     },
     {
-      "id": "d71a7908-18ef-4c",
+      "id": "1f5c1a97-61bf-48",
       "section_number": "458",
       "section_title": "Lurking house-trespass or house-breaking by  night after preparation for hurt, assault",
       "chapter": "XVII",
@@ -3590,7 +3590,7 @@
       "content_length": 560
     },
     {
-      "id": "2b977191-0e3b-4d",
+      "id": "43a77a4d-132c-42",
       "section_number": "459",
       "section_title": "Hurt caused whilst committing lurkin g house trespass or house-breaking:",
       "chapter": "XVII",
@@ -3598,7 +3598,7 @@
       "content_length": 528
     },
     {
-      "id": "1f73a5ce-11c4-4c",
+      "id": "ba8a7cac-1a6c-40",
       "section_number": "460",
       "section_title": "Persons jointly concerned in lurking hous e-trespass or house-breaking by night",
       "chapter": "XVII",
@@ -3606,7 +3606,7 @@
       "content_length": 771
     },
     {
-      "id": "5e3c034e-1b0c-4c",
+      "id": "5fc13da3-e2f2-45",
       "section_number": "461",
       "section_title": "Dishonestly breaking open receptacle containing property:",
       "chapter": "XVII",
@@ -3614,7 +3614,7 @@
       "content_length": 359
     },
     {
-      "id": "dff6b9cf-c072-42",
+      "id": "f96b7a32-df0e-4c",
       "section_number": "462",
       "section_title": "Punishment for same offence when committ ed by person entrusted with custody:",
       "chapter": "XVIII",
@@ -3622,7 +3622,7 @@
       "content_length": 532
     },
     {
-      "id": "6daf55a2-3d94-4f",
+      "id": "fcbd9a79-f882-45",
       "section_number": "463",
       "section_title": "Forgery:",
       "chapter": "XVIII",
@@ -3630,7 +3630,7 @@
       "content_length": 361
     },
     {
-      "id": "d0118e61-d447-49",
+      "id": "75108ada-bb7d-43",
       "section_number": "464",
       "section_title": "Making a false document:",
       "chapter": "XVIII",
@@ -3638,7 +3638,7 @@
       "content_length": 6716
     },
     {
-      "id": "acd5256e-82c7-49",
+      "id": "f93f3435-f498-4a",
       "section_number": "465",
       "section_title": "Punishment for forgery:",
       "chapter": "XVIII",
@@ -3646,7 +3646,7 @@
       "content_length": 191
     },
     {
-      "id": "e6c72e7e-061a-4d",
+      "id": "3c43a76b-9d2b-45",
       "section_number": "466",
       "section_title": "Forgery of record of Court or of public register, etc.:",
       "chapter": "XVIII",
@@ -3654,7 +3654,7 @@
       "content_length": 630
     },
     {
-      "id": "2300a8cb-2acb-41",
+      "id": "b797f7e3-e862-46",
       "section_number": "467",
       "section_title": "Forgery of valuable security, will, etc.:",
       "chapter": "XVIII",
@@ -3662,7 +3662,7 @@
       "content_length": 755
     },
     {
-      "id": "536bff64-9dad-49",
+      "id": "eba51e11-8e5e-48",
       "section_number": "468",
       "section_title": "Forgery for purpose of cheating:",
       "chapter": "XVIII",
@@ -3670,7 +3670,7 @@
       "content_length": 288
     },
     {
-      "id": "9c78ce89-3211-49",
+      "id": "c97b6c2d-32a8-47",
       "section_number": "469",
       "section_title": "Forgery for purpose of harming reputation:",
       "chapter": "XVIII",
@@ -3678,7 +3678,7 @@
       "content_length": 352
     },
     {
-      "id": "58e28320-9cbb-48",
+      "id": "80945a83-560d-45",
       "section_number": "470",
       "section_title": "Forged document:",
       "chapter": "XVIII",
@@ -3686,7 +3686,7 @@
       "content_length": 116
     },
     {
-      "id": "11f257cf-868b-4c",
+      "id": "dbc6318e-fcad-46",
       "section_number": "471",
       "section_title": "Using as genuine a forged document:",
       "chapter": "XVIII",
@@ -3694,7 +3694,7 @@
       "content_length": 253
     },
     {
-      "id": "5b61d47e-14d5-42",
+      "id": "b3841706-8bda-46",
       "section_number": "472",
       "section_title": "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable",
       "chapter": "XVIII",
@@ -3702,7 +3702,7 @@
       "content_length": 642
     },
     {
-      "id": "d4f46e8c-481d-4f",
+      "id": "019bb5e9-e8df-48",
       "section_number": "473",
       "section_title": "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable",
       "chapter": "XVIII",
@@ -3710,7 +3710,7 @@
       "content_length": 622
     },
     {
-      "id": "147f8c52-4953-4c",
+      "id": "bf9d2af2-9fea-4e",
       "section_number": "474",
       "section_title": "Havin g possession of document described in Section 466 or 467 knowin g it to be for ged",
       "chapter": "XVIII",
@@ -3718,7 +3718,7 @@
       "content_length": 754
     },
     {
-      "id": "46683d40-3a4e-4b",
+      "id": "ef01d5ae-6fab-4a",
       "section_number": "475",
       "section_title": "Counterfeiting device or mark used for auth enticating documents described in Section",
       "chapter": "XVIII",
@@ -3726,7 +3726,7 @@
       "content_length": 817
     },
     {
-      "id": "7994bcbf-2ff5-44",
+      "id": "37980e07-06ef-4a",
       "section_number": "476",
       "section_title": "Counterfeiting device or mark used for au thenticating documents other than those",
       "chapter": "XVIII",
@@ -3734,7 +3734,7 @@
       "content_length": 823
     },
     {
-      "id": "d97e1dfb-c35c-4a",
+      "id": "cb90e57a-748b-47",
       "section_number": "477",
       "section_title": "Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable",
       "chapter": "XVIII",
@@ -3742,7 +3742,7 @@
       "content_length": 1803
     },
     {
-      "id": "d2a558bd-231d-4d",
+      "id": "b79d231b-9791-4e",
       "section_number": "478",
       "section_title": "Trade mark:",
       "chapter": "XVIII",
@@ -3750,7 +3750,7 @@
       "content_length": 341
     },
     {
-      "id": "68babda7-af70-4d",
+      "id": "d158d869-67ae-41",
       "section_number": "479",
       "section_title": "Property mark:",
       "chapter": "XVIII",
@@ -3758,7 +3758,7 @@
       "content_length": 134
     },
     {
-      "id": "284e252c-e8fa-48",
+      "id": "4c0b07db-804c-46",
       "section_number": "480",
       "section_title": "Using a false trade mark:",
       "chapter": "XVIII",
@@ -3766,7 +3766,7 @@
       "content_length": 471
     },
     {
-      "id": "5a594d2e-f1ca-42",
+      "id": "01354380-2aa4-4b",
       "section_number": "481",
       "section_title": "Using a false property mark:",
       "chapter": "XVIII",
@@ -3774,7 +3774,7 @@
       "content_length": 492
     },
     {
-      "id": "01716013-9cde-40",
+      "id": "edc007e1-cb96-4f",
       "section_number": "482",
       "section_title": "Punishment for using a false trade-mark or property mark:",
       "chapter": "XVIII",
@@ -3782,7 +3782,7 @@
       "content_length": 320
     },
     {
-      "id": "0e2f6886-c976-4f",
+      "id": "70f3184f-85fa-4d",
       "section_number": "483",
       "section_title": "Counterfeiting a trademark or pr operty mark used by another:",
       "chapter": "XVIII",
@@ -3790,7 +3790,7 @@
       "content_length": 283
     },
     {
-      "id": "e46663e9-cc3b-4a",
+      "id": "12cb6367-f2ff-4a",
       "section_number": "484",
       "section_title": "Counterfeiting a mark used by a public servant:",
       "chapter": "XVIII",
@@ -3798,7 +3798,7 @@
       "content_length": 612
     },
     {
-      "id": "aa3f9062-a906-41",
+      "id": "e36490c3-6a38-49",
       "section_number": "485",
       "section_title": "Making or possession of any instrument fo r counterfeiting a trade mark or property",
       "chapter": "XVIII",
@@ -3806,7 +3806,7 @@
       "content_length": 629
     },
     {
-      "id": "eb3c7740-aea4-45",
+      "id": "6f61446e-1b3d-48",
       "section_number": "486",
       "section_title": "Selling goods marked with a counterfeit trade mark or property mark:",
       "chapter": "XVIII",
@@ -3814,7 +3814,7 @@
       "content_length": 960
     },
     {
-      "id": "c5f3616c-9830-41",
+      "id": "57b2cd9d-c5d2-48",
       "section_number": "487",
       "section_title": "Making a false mark upon any receptacle containing goods:",
       "chapter": "XVIII",
@@ -3822,7 +3822,7 @@
       "content_length": 690
     },
     {
-      "id": "7b29d71f-f499-49",
+      "id": "47f6260e-cc59-49",
       "section_number": "488",
       "section_title": "Punishment for making use of any such false mark:",
       "chapter": "XVIII",
@@ -3830,7 +3830,7 @@
       "content_length": 293
     },
     {
-      "id": "655875d4-44b3-45",
+      "id": "6b123d68-b7ea-44",
       "section_number": "489",
       "section_title": "Tampering with property mark with intent to cause injury:",
       "chapter": "XIX",
@@ -3838,7 +3838,7 @@
       "content_length": 4441
     },
     {
-      "id": "d88b788a-f425-4c",
+      "id": "b451227e-e202-49",
       "section_number": "491",
       "section_title": "Breach of contract to attend on any supply wants of helpless person:",
       "chapter": "XX",
@@ -3846,7 +3846,7 @@
       "content_length": 1011
     },
     {
-      "id": "35e07309-c769-4b",
+      "id": "86c2e030-87e3-4b",
       "section_number": "494",
       "section_title": "Marrying again during lifetime of husband or wife:",
       "chapter": "XX",
@@ -3854,7 +3854,7 @@
       "content_length": 1081
     },
     {
-      "id": "9b392eb4-f2d0-48",
+      "id": "0b62b9aa-c7b1-41",
       "section_number": "495",
       "section_title": "Same offence with concealment of form er marriage from person with whom",
       "chapter": "XX",
@@ -3862,7 +3862,7 @@
       "content_length": 438
     },
     {
-      "id": "ae266184-99ac-49",
+      "id": "2c70e1f0-37d4-47",
       "section_number": "496",
       "section_title": "Marriage ceremony fraudulently gone th rough without lawful marriage:",
       "chapter": "XX",
@@ -3870,7 +3870,7 @@
       "content_length": 369
     },
     {
-      "id": "4a626f0a-dea3-49",
+      "id": "84294263-c61e-48",
       "section_number": "496A",
       "section_title": "Enticing or taking away or detaining with criminal intent a woman.",
       "chapter": "XX",
@@ -3878,7 +3878,7 @@
       "content_length": 377
     },
     {
-      "id": "3844d7bc-ffa9-49",
+      "id": "36584d03-8c4e-4d",
       "section_number": "496B",
       "section_title": "Fornication:",
       "chapter": "XX",
@@ -3886,7 +3886,7 @@
       "content_length": 348
     },
     {
-      "id": "4c8c23f7-1384-4f",
+      "id": "8fd32ac0-edc8-40",
       "section_number": "496C",
       "section_title": "Punishment for false accusation of fornication.",
       "chapter": "XXI",
@@ -3894,7 +3894,7 @@
       "content_length": 679
     },
     {
-      "id": "8e3e627c-2ce2-47",
+      "id": "0010b932-2b0d-4f",
       "section_number": "499",
       "section_title": "Defamation:",
       "chapter": "XXI",
@@ -3902,7 +3902,7 @@
       "content_length": 8645
     },
     {
-      "id": "d385ec75-2159-47",
+      "id": "3d5eb66a-566b-4d",
       "section_number": "500",
       "section_title": "Punishment for defamation:",
       "chapter": "XXI",
@@ -3910,7 +3910,7 @@
       "content_length": 177
     },
     {
-      "id": "89294c97-b9fd-41",
+      "id": "81a1b51c-f2f5-4e",
       "section_number": "501",
       "section_title": "Printing or engraving matter known to be defamatory:",
       "chapter": "XXI",
@@ -3918,7 +3918,7 @@
       "content_length": 307
     },
     {
-      "id": "7ddfd41c-4d31-4b",
+      "id": "1e898443-8601-42",
       "section_number": "502",
       "section_title": "Sale of printed or engraved substance containing defamatory matter:",
       "chapter": "XXII",
@@ -3926,7 +3926,7 @@
       "content_length": 379
     },
     {
-      "id": "3744f1dd-38b7-4a",
+      "id": "996c835e-fc8e-4f",
       "section_number": "503",
       "section_title": "Criminal Intimidation:",
       "chapter": "XXII",
@@ -3934,7 +3934,7 @@
       "content_length": 826
     },
     {
-      "id": "bf784ec3-45a9-45",
+      "id": "de867ccc-b84b-40",
       "section_number": "1",
       "section_title": "Threatening a person with any injury--",
       "chapter": "XXII",
@@ -3942,7 +3942,7 @@
       "content_length": 178
     },
     {
-      "id": "7326e7b9-f257-42",
+      "id": "bf34c77e-e5b6-47",
       "section_number": "2",
       "section_title": "Threat must be with intent---",
       "chapter": "XXII",
@@ -3950,7 +3950,7 @@
       "content_length": 440
     },
     {
-      "id": "9339be9f-b216-48",
+      "id": "37da6b33-de13-46",
       "section_number": "504",
       "section_title": "Intentional insult with intent to provoke breach of the peace:",
       "chapter": "XXII",
@@ -3958,7 +3958,7 @@
       "content_length": 416
     },
     {
-      "id": "213ea14b-2656-4a",
+      "id": "a4304753-124f-42",
       "section_number": "505",
       "section_title": "Statements conducing to public mischief:",
       "chapter": "XXII",
@@ -3966,7 +3966,7 @@
       "content_length": 1719
     },
     {
-      "id": "91b0005d-d088-49",
+      "id": "8f0c1a86-0734-47",
       "section_number": "506",
       "section_title": "Punishment for criminal intimidation:",
       "chapter": "XXII",
@@ -3974,7 +3974,7 @@
       "content_length": 697
     },
     {
-      "id": "3b01a962-f50b-4c",
+      "id": "a282790d-7cec-49",
       "section_number": "507",
       "section_title": "Criminal intimidation by an anonymous communication:",
       "chapter": "XXII",
@@ -3982,7 +3982,7 @@
       "content_length": 435
     },
     {
-      "id": "00458319-43a6-47",
+      "id": "345d7e2b-c0ce-4b",
       "section_number": "508",
       "section_title": "Act caused by inducing person to believe that  he will be rendered an object of Divine",
       "chapter": "XXII",
@@ -3990,7 +3990,7 @@
       "content_length": 1262
     },
     {
-      "id": "e127aaf1-93be-48",
+      "id": "1fc778e6-4e77-4c",
       "section_number": "509",
       "section_title": "Word, gesture or act intended to insult the modesty of a woman:",
       "chapter": "XXII",
@@ -3998,7 +3998,7 @@
       "content_length": 472
     },
     {
-      "id": "20966030-9e3e-43",
+      "id": "b6aaa7c4-21d7-4c",
       "section_number": "510",
       "section_title": "Misconduct in public by a drunken person:",
       "chapter": "XXIII",
@@ -4006,7 +4006,7 @@
       "content_length": 442
     },
     {
-      "id": "e24f91e9-c9fe-4f",
+      "id": "2731ccbf-6f15-40",
       "section_number": "511",
       "section_title": "Punishment for attempting to commit offen ces punishable with imprisonment for life",
       "chapter": "XXIII",
@@ -4014,7 +4014,7 @@
       "content_length": 2597
     },
     {
-      "id": "31b8aaa9-08fe-47",
+      "id": "dad3342b-dac9-44",
       "section_number": "13",
       "section_title": "Definition of \"Queen\"",
       "chapter": "XXIII",
@@ -4022,7 +4022,7 @@
       "content_length": 81
     },
     {
-      "id": "3b4793ee-548a-48",
+      "id": "3a097af6-6fcf-40",
       "section_number": "16",
       "section_title": "Definition of \"Government of India\"",
       "chapter": "XXIII",
@@ -4030,7 +4030,7 @@
       "content_length": 96
     },
     {
-      "id": "7329b26f-6363-4e",
+      "id": "6a44a0fb-4d5c-40",
       "section_number": "18",
       "section_title": "Definition of Presidency.",
       "chapter": "XXIII",
@@ -4038,7 +4038,7 @@
       "content_length": 954
     },
     {
-      "id": "caea666e-abd9-41",
+      "id": "6ddb39ce-e475-47",
       "section_number": "56",
       "section_title": "Sentence of Europeans and Am ericans to penal servitude:",
       "chapter": "XXIII",
@@ -4046,7 +4046,7 @@
       "content_length": 148
     },
     {
-      "id": "978c3d75-1699-45",
+      "id": "88f55a06-3dcc-42",
       "section_number": "59",
       "section_title": "Transportation instead of imprisonment:",
       "chapter": "XXIII",
@@ -4054,7 +4054,7 @@
       "content_length": 136
     },
     {
-      "id": "416731c9-b247-4e",
+      "id": "5071da5f-9acd-4e",
       "section_number": "62",
       "section_title": "Forfeiture of property, in resp ect of offenders punishable with  death, transportation or",
       "chapter": "XXIII",
@@ -4062,7 +4062,7 @@
       "content_length": 5184
     },
     {
-      "id": "8f12ba1f-a582-4f",
+      "id": "636eb528-1069-41",
       "section_number": "226",
       "section_title": "Unlawful return from transportation.",
       "chapter": "XXIII",
@@ -4070,7 +4070,7 @@
       "content_length": 6151
     },
     {
-      "id": "85cf9e08-2152-44",
+      "id": "7f93150d-a889-46",
       "section_number": "366",
       "section_title": "Kidnapping, abducting or inducing woma n to compel her marriage, etc.:",
       "chapter": "XXIII",
@@ -4078,7 +4078,7 @@
       "content_length": 520
     },
     {
-      "id": "1c770548-ff78-4c",
+      "id": "7eaa1d9f-4762-49",
       "section_number": "373",
       "section_title": "Buying minor for purposes of prostitution, etc.:",
       "chapter": "XXIII",
@@ -4086,7 +4086,7 @@
       "content_length": 274
     },
     {
-      "id": "2e7e71bb-4753-42",
+      "id": "45f129c3-6883-43",
       "section_number": "376",
       "section_title": "Punishment of rape:",
       "chapter": "XXIII",
@@ -4094,7 +4094,7 @@
       "content_length": 1808
     },
     {
-      "id": "d712948e-b893-43",
+      "id": "7ed97734-ecda-4d",
       "section_number": "490",
       "section_title": "Breach of contract of service during voyage or journey",
       "chapter": "XXIII",
@@ -4102,7 +4102,7 @@
       "content_length": 286
     },
     {
-      "id": "076088b6-2156-43",
+      "id": "16122aa3-6584-4c",
       "section_number": "492",
       "section_title": "Breach of contract to serve at distant pla ce to which servant is conveyed at masters",
       "chapter": "XXIII",
@@ -4110,7 +4110,7 @@
       "content_length": 226
     },
     {
-      "id": "04985f97-d7de-40",
+      "id": "0522ce10-0ed6-4d",
       "section_number": "493",
       "section_title": "Cohabitation caused by a man deceitfull y inducing a belief of lawful marriage:",
       "chapter": "XXIII",
@@ -4118,7 +4118,7 @@
       "content_length": 373
     },
     {
-      "id": "39e03948-28ab-44",
+      "id": "b0d338d2-64e2-4b",
       "section_number": "498",
       "section_title": "Enticing or taking away or detainin g with criminal intent a married woman:",
       "chapter": "XXIII",

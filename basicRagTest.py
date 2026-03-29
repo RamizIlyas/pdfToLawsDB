@@ -71,7 +71,7 @@ def basic_rag_test():
                 
         except Exception as e:
             print(f"   ❌ Error retrieving section {section_num}: {e}")
-    
+     
     mongo_client.close()
     print("\n🎉 BASIC TESTING COMPLETED!")
 
