@@ -2,6 +2,7 @@ import chromadb
 from pymongo import MongoClient
 import time
 from chromadb.utils import embedding_functions
+import re
 
 embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
     model_name="BAAI/bge-base-en-v1.5",
@@ -49,7 +50,11 @@ class CorrectedHybridLegalSearcher:
         if not semantic_results['documents'] or not semantic_results['documents'][0]:
             return [], []
         
-        query_keywords = set(query.lower().split())
+        # Extract keywords from query (simple approach)
+        # query_keywords = set(query.lower().split())
+
+        # Better keyword extraction using regex to get words and numbers
+        query_keywords = set(re.findall(r'\w+', query.lower()))
         scored_results = []
         
         for i, (doc, metadata) in enumerate(zip(semantic_results['documents'][0], 
@@ -73,9 +78,15 @@ class CorrectedHybridLegalSearcher:
             score += content_matches
             
             # Bonus for exact section number match in query
-            if section_num in query:
+            # if section_num in query:
+            #     score += 5
+            query_numbers = re.findall(r'\d+', query)
+
+            if section_num in query_numbers:
                 score += 5
-                
+
+
+
             scored_results.append((score, doc, metadata))
         
         # Sort by score (highest first)
