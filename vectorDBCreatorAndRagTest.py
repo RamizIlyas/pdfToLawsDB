@@ -13,7 +13,7 @@ print("✅ Model loaded once!")
 
 class LocalLawVectorDB:
     def __init__(self, mongodb_uri="mongodb://localhost:27017/", db_name="pakistan_law_db"):
-        print("🚀 Initializing Local Vector Database (No Downloads)...")
+        print("🚀 Initializing Local Vector Database...")
         start_time = time.time()
         
         self.client = MongoClient(mongodb_uri)
